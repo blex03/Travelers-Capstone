@@ -59,6 +59,33 @@ app.get('/api/:categoryType', async (req, res) => {
     }
 })
 
+app.post('/api/login', async (req, res) => {
+    const { username, password } = req.body;
+    console.log(req.body)
+
+    console.log(username)
+
+    try {
+        const client = await MongoClient.connect(url)
+        const database = client.db(db_name);
+        const collection = database.collection('Users');
+
+        const user = await collection.findOne({ username });
+        console.log(user)
+
+        if (user) {
+            res.send(user)
+        } else {
+            res.status(404).send("User doesn't exist");
+        }
+    } catch (error) {
+        console.error('Error querying the database:', error);
+        res.status(500).send('Internal server error');
+    }
+});
+
+
+
 app.listen(port, () => {
     console.log(`Listening at http://localhost:${port}`);
 })
