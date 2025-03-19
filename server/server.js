@@ -26,6 +26,26 @@ app.get('/api/products', async (req, res) => {
     }
 })
 
+app.get('/api/search', async (req, res) => {
+    const query = req.query.q || '';
+
+    try {
+        const client = await MongoClient.connect(url);
+        const db = client.db(db_name);
+        const collection = db.collection('Products');
+
+        const filteredProducts = await collection.find({
+            name: { $regex: query, $options: 'i' }
+        }).toArray();
+
+        res.json(filteredProducts);
+    } catch (err) {
+        console.error("Error:", err);
+        res.status(500).send("Couldn't search for products");
+    }
+});
+
 app.listen(port, () => {
     console.log(`Listening at http://localhost:${port}`);
 })
+
