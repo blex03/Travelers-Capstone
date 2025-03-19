@@ -21,14 +21,21 @@ export const Featured = () => {
         }
         getProductData()
     }, [])
+
+    const containerStyle = {
+        display: 'flex',
+        justifyContent: 'space-between',
+        alignItems: 'center',
+        padding: '10px',
+        gap: '10px'
+    }
     
     return(
         <>
             <h2>Featured Products!</h2>
-            <ul>
-                {console.log(featuredProducts)}
+            <div style={containerStyle}>
                 {featuredProducts.map((product) => (<Product key={product._id} data={product}/>))}
-            </ul>
+            </div>
         </>
     )
 }

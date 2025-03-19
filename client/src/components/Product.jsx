@@ -1,6 +1,6 @@
 export const Product = (props) => {
     const onAddToCart = () => {
-        console.log(added)
+        console.log("added")
     }
 
     const productStyle = {
