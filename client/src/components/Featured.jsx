@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react'
+import { Product } from './Product'
 
 export const Featured = () => {
     const [featuredProducts, setFeaturedProducts] = useState([])
@@ -26,7 +27,7 @@ export const Featured = () => {
             <h2>Featured Products!</h2>
             <ul>
                 {console.log(featuredProducts)}
-                {featuredProducts.map((product) => (<li key={product._id}>{product.name}</li>))}
+                {featuredProducts.map((product) => (<Product key={product._id} data={product}/>))}
             </ul>
         </>
     )

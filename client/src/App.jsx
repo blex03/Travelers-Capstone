@@ -7,8 +7,8 @@ import { Home }  from './components/Home'
 import React from 'react'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { Login } from './components/Login'
-import { Checkout } from './Components/Checkout'
-import { Navbar } from './Components/Navbar'
+import { Checkout } from './components/Checkout'
+import { Navbar } from './components/Navbar'
 
 
 export const App = () => {
