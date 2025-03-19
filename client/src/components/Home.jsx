@@ -1,9 +1,9 @@
-import { Featured } from '../components/Featured'
-import { Search } from '../components/Search'
-import { Categories } from '../components/Categories'
-import { LoginButton } from '../components/LoginButton'
-import { CartButton } from '../Components/CartButton'
-import { Navbar } from '../Components/Navbar'
+import { Featured } from './Featured'
+import { Search } from './Search'
+import { Categories } from './Categories'
+import { LoginButton } from './LoginButton'
+import { CartButton } from './CartButton'
+import { Navbar } from './Navbar'
 
 export const Home = () => {
     return(
