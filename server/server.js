@@ -45,6 +45,20 @@ app.get('/api/search', async (req, res) => {
     }
 });
 
+app.get('/api/:categoryType', async (req, res) => {
+    try {
+        const categoryType = req.params.categoryType
+        const client = await MongoClient.connect(url);
+        const db = client.db(db_name);
+        const collection = db.collection('Products');
+        const productsByCategory = await collection.find({ category: categoryType }).toArray()
+        res.json(productsByCategory)
+    } catch (err) {
+        console.error("Error:", err);
+        res.status(500).send("Couldn't search for products");
+    }
+})
+
 app.listen(port, () => {
     console.log(`Listening at http://localhost:${port}`);
 })
