@@ -14,13 +14,16 @@ import { ProductsPage } from './components/ProductsPage';
 
 export const App = () => {
   return (
-    <Router>
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/login" element={<Login />} />
-        <Route path="/checkout" element={<Checkout />} />
-        <Route path="/products" element={<ProductsPage />} />
-      </Routes>
-    </Router>
+    <>
+      <Router>
+        <Navbar/>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/login" element={<Login />} />
+          <Route path="/checkout" element={<Checkout />} />
+          <Route path="/products" element={<ProductsPage />} />
+        </Routes>
+      </Router>
+    </>
   );
 };

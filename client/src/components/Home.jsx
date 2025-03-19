@@ -4,14 +4,16 @@ import { Categories } from './Categories'
 import { LoginButton } from './LoginButton'
 import { CartButton } from './CartButton'
 import { Navbar } from './Navbar'
+import { useState } from 'react'
+import { useNavigate } from 'react-router-dom';
 
 export const Home = () => {
+   
     return(
         <>
-            <Navbar />
             <h1>Travengers Online Store</h1>
             <Featured />
-            <Search />
+            <Search/>
             <Categories />
         </>
     )

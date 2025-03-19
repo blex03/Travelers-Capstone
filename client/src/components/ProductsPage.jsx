@@ -1,11 +1,21 @@
-import React, { useState } from 'react';
-import { useNavigate } from 'react-router-dom';
+import React, { useState, useEffect } from 'react';
+import { useNavigate, useLocation } from 'react-router-dom';
 import { Search } from './Search';
+import { Product } from './Product';
 
 export const ProductsPage = () => {
     const [products, setProducts] = useState([]);
     const [searchQuery, setSearchQuery] = useState('');
     const navigate = useNavigate();
+    const location = useLocation();
+
+    const productData = location.state 
+
+    useEffect(() => {
+        console.log(name)
+        console.log(location.state)
+    }, [])
+    
 
     const fetchProducts = async (query) => {
         try {
@@ -28,6 +38,14 @@ export const ProductsPage = () => {
         console.log('hi')
     };
 
+    const containerStyle = {
+        display: 'flex',
+        justifyContent: 'space-between',
+        alignItems: 'center',
+        padding: '10px',
+        gap: '10px'
+    }
+
     return (
         <div>
             <h1>Products</h1>
@@ -36,11 +54,9 @@ export const ProductsPage = () => {
                 onSearchChange={handleSearchChange}
                 onSearchSubmit={handleSearchSubmit}
             />
-            <ul>
-                {products.map(product => (
-                    <li key={product._id}>{product.name}</li>
-                ))}
-            </ul>
+            <div style={containerStyle}>
+                {productData.map((product) => (<Product key={product._id} data={product}/>))}
+            </div>
         </div>
     );
 };
