@@ -1,4 +1,4 @@
-db.insertMany([
+db.Products.insertMany([
   { name: "Iron Man Armor", category: "Costumes", price: 99.99, popularity: 95, durability: 80 },
   { name: "Captain America's Shield", category: "Weapons", price: 49.99, popularity: 90, durability: 85 },
   { name: "Thor's Mjolnir Hammer", category: "Weapons", price: 29.99, popularity: 85, durability: 90 },
