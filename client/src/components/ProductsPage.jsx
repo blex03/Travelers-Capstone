@@ -1,47 +1,46 @@
 import React, { useState } from 'react';
-import { Product } from './Product'; // Import your Product component
-import { Search } from './Search'; // Import your Search component
+import { useNavigate } from 'react-router-dom';
+import { Search } from './Search';
 
-// Main ProductsPage component
-export const ProductsPage = ({ allProducts }) => {
-  const [searchQuery, setSearchQuery] = useState('');
-  const [filteredProducts, setFilteredProducts] = useState(allProducts);
-  const [error, setError] = useState('');
+export const ProductsPage = () => {
+    const [products, setProducts] = useState([]);
+    const [searchQuery, setSearchQuery] = useState('');
+    const navigate = useNavigate();
 
-  // Handle search input change
-  const handleSearchChange = (event) => {
-    const query = event.target.value;
-    setSearchQuery(query);
+    const fetchProducts = async (query) => {
+        try {
+            const response = await fetch(`http://localhost:3000/api/search?q=${query}`);
+            const data = await response.json();
+            setProducts(data);
+        } catch (error) {
+            console.error("Error fetching products:", error);
+        }
+    };
 
-    // Filter products based on search query
-    if (query) {
-      const filtered = allProducts.filter(product =>
-        product.name.toLowerCase().includes(query.toLowerCase())
-      );
-      setFilteredProducts(filtered);
+    const handleSearchChange = (event) => {
+        setSearchQuery(event.target.value);
+    };
 
-      // Set error message if no products are found
-      if (filtered.length === 0) {
-        setError('No products found.');
-      } else {
-        setError('');
-      }
-    } else {
-      setFilteredProducts(allProducts);
-      setError('');
-    }
-  };
+    const handleSearchSubmit = (event) => {
+        event.preventDefault();
+        fetchProducts(searchQuery);
+        navigate('./products');
+        console.log('hi')
+    };
 
-  return (
-    <div className="products-page">
-      <h1>Products</h1>
-      <Search searchQuery={searchQuery} onSearchChange={handleSearchChange} />
-      {error && <p style={{ color: 'red' }}>{error}</p>}
-      <div className="products-list">
-        {filteredProducts.map(product => (
-          <Product key={product.id} data={product} />
-        ))}
-      </div>
-    </div>
-  );
+    return (
+        <div>
+            <h1>Products</h1>
+            <Search
+                searchQuery={searchQuery}
+                onSearchChange={handleSearchChange}
+                onSearchSubmit={handleSearchSubmit}
+            />
+            <ul>
+                {products.map(product => (
+                    <li key={product._id}>{product.name}</li>
+                ))}
+            </ul>
+        </div>
+    );
 };

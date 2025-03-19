@@ -9,16 +9,17 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { Login } from './components/Login'
 import { Checkout } from './components/Checkout'
 import { Navbar } from './components/Navbar'
+import { ProductsPage } from './components/ProductsPage';
 
 
 export const App = () => {
   return (
     <Router>
       <Routes>
-        console.log('hi')
         <Route path="/" element={<Home />} />
         <Route path="/login" element={<Login />} />
         <Route path="/checkout" element={<Checkout />} />
+        <Route path="/products" element={<ProductsPage />} />
       </Routes>
     </Router>
   );
