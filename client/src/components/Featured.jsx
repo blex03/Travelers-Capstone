@@ -12,13 +12,18 @@ export const Featured = () => {
 
         getProductData()
     }, [])
-    
+
     return(
         <>
-            <h2>Featured Products!</h2>
-            <ul>
-                {featuredProducts.map((product) => (<li key={product._id}>{}</li>))}
-            </ul>
         </>
     )
+    
+    // return(
+    //     <>
+    //         <h2>Featured Products!</h2>
+    //         <ul>
+    //             {featuredProducts.map((product) => (<li key={product._id}>{}</li>))}
+    //         </ul>
+    //     </>
+    // )
 }
