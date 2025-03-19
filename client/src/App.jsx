@@ -3,17 +3,20 @@ import './App.css'
 import { Featured } from './components/Featured'
 import { Search } from './components/Search'
 import { Categories } from './components/Categories'
-import { Home } from './components/Home'
+import { Home }  from './components/Home'
+import React from 'react'
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { Login } from './components/Login'
 
 
-function App() {
-  const [count, setCount] = useState(0)
-
+export const App = () => {
   return (
-    <>
-      <Home/>
-    </>
-  )
-}
-
-export default App
+    <Router>
+      <Routes>
+        console.log('hi')
+        <Route path="/" element={<Home />} />
+        <Route path="/login" element={<Login />} />
+      </Routes>
+    </Router>
+  );
+};
