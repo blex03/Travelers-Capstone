@@ -30,12 +30,15 @@ export const Categories = () => {
             <div style={containerStyle}>
                 <button style={productStyle} onClick={onClickCategory}>
                     <p>Weapons</p>
+                    <p>image</p>
                 </button>
                 <button style={productStyle} onClick={onClickCategory}>
                     <p>Costumes</p>
+                    <p>image</p>
                 </button>
                 <button style={productStyle} onClick={onClickCategory}>
                     <p>Powers</p>
+                    <p>image</p>
                 </button>
             </div>
         </>
