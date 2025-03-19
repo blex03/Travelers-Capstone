@@ -13,12 +13,12 @@ export const Product = (props) => {
         justifyContent: 'space-between',
         alignItems: 'center',
         padding: '10px',
-        boxShadown: '0 4px 8px rgba(0, 0, 0, 0.1)'
+        boxShadow: '0 4px 8px rgba(0, 0, 0, 0.1)'
     }
 
     const buttonStyle = {
         backgroundColor: '#28a745',
-        oolor: '#fff',
+        color: '#fff',
         border: 'none',
         borderRadius: '4px',
         padding: '10px 20px',
