@@ -3,6 +3,7 @@ import './App.css'
 import { Featured } from './components/Featured'
 import { Search } from './components/Search'
 import { Categories } from './components/Categories'
+import { Home } from './components/Home'
 
 
 function App() {
@@ -10,10 +11,7 @@ function App() {
 
   return (
     <>
-      <h1>Travengers Online Store</h1>
-      <Featured />
-      <Search />
-      <Categories />
+      <Home/>
     </>
   )
 }
