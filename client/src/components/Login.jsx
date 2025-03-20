@@ -19,13 +19,16 @@ export const Login = () => {
                 body: JSON.stringify({ username, password })
             });
 
-
             if (response.ok) {
                 const user = await response.json();
 
                 // Store the username and other relevant data in local storage
                 localStorage.setItem('username', user.username);
                 localStorage.setItem('userId', user._id);
+
+                // Optionally, dispatch a custom event to notify other components
+                window.dispatchEvent(new Event('storage'));
+
                 setMessage('Login successful!');
                 // Redirect to the Home page
                 navigate('/');
