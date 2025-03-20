@@ -12,8 +12,8 @@ export const Home = () => {
     return(
         <>
             <h1>Travengers Online Store</h1>
-            <Featured />
             <Search/>
+            <Featured />
             <Categories />
         </>
     )

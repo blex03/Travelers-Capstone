@@ -57,12 +57,11 @@ export const Categories = () => {
         boxShadown: '0 4px 8px rgba(0, 0, 0, 0.1)'
     }
     const containerStyle = {
-        display: 'flex',
-        font: 'bold',
-        justifyContent: 'space-between',
+        display: 'flex', 
+        justifyContent: 'center',   
         alignItems: 'center',
         padding: '10px',
-        gap: '10px'
+        gap: '30px'
     }
 
     const onClickCategory = () => {

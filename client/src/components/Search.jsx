@@ -33,11 +33,22 @@ export const Search = () => {
         event.preventDefault();
         const data = fetchProducts(searchQuery);
     };
+
+    const searchStyle = {
+        position: 'fixed',
+        top: '170px',
+        right: '50px'
+    }
+
+    const inputField = {
+        fontSize: '20px',
+
+    }
     
     return (
-        <form onSubmit={handleSearchSubmit}>
-            <h3>Search:</h3>
+        <form style={searchStyle} onSubmit={handleSearchSubmit}>
             <input
+                style={inputField}
                 type="text"
                 value={searchQuery}
                 onChange={handleSearchChange}

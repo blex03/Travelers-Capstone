@@ -23,11 +23,11 @@ export const Featured = () => {
     }, [])
 
     const containerStyle = {
-        display: 'flex',
-        justifyContent: 'space-between',
+        display: 'flex', 
+        justifyContent: 'center',   
         alignItems: 'center',
         padding: '10px',
-        gap: '10px'
+        gap: '30px'
     }
     
     return(
