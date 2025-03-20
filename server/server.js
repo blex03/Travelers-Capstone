@@ -59,6 +59,30 @@ app.get('/api/:categoryType', async (req, res) => {
     }
 })
 
+app.get('/api/cart/:username', async (req, res) => {
+    try {
+        const cartArray = []
+        const username = req.params.username
+        const client = await MongoClient.connect(url);
+        const db = client.db(db_name)
+        const collection = db.collection('Users');
+        const user = await collection.findOne({ username })
+        const cart = user.cart
+
+        const productCollection = db.collection('Products')
+        for (const productId of cart) {
+            let product = await productCollection.findOne({ _id: new ObjectId(productId) })
+            cartArray.push(product)
+        }
+
+        res.send(cartArray)
+    } catch (error) {
+        console.error(error)
+        res.status(500).send("Couldn't get products from user")
+    }
+
+})
+
 app.post('/api/login', async (req, res) => {
     const { username, password } = req.body;
     console.log(req.body)
