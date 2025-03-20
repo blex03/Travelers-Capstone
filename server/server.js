@@ -132,6 +132,27 @@ app.post('/api/update-cart', async (req, res) => {
     }
 });
 
+app.delete('/api/items/:user/:id', async (req, res) => {
+    const { user, id } = req.params
+
+    const client = await MongoClient.connect(url)
+    const db = client.db(db_name)
+    const collection = db.collection('Users')
+    let userData = await collection.findOne({ username: user })
+
+    const newCart = userData.shopping_cart
+    const index = newCart.indexOf(id)
+    if (index > -1) {
+        newCart.splice(index, 1)
+    }
+
+    const response = await collection.updateOne({ _id: userData._id}, { $set: {shopping_cart: newCart}})
+
+    console.log(newCart)
+    res.send(response)
+
+
+})
 
 
 

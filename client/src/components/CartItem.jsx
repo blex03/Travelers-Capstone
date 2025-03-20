@@ -1,8 +1,9 @@
 import '../CartItem.css'
 
 export const CartItem = (props) => {
-    const onDelete = () => {
-        console.log("Deleted Item")
+    const onDelete = async () => {
+        //await fetch(`${import.meta.env.VITE_API_URL}/items/${localStorage.username}/${props.data._id}`)
+        props.deleteFunction(props.data._id)
     }
 
     return(
