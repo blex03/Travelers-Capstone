@@ -110,9 +110,6 @@ app.post('/api/login', async (req, res) => {
 
 app.post('/api/update-cart', async (req, res) => {
     const { username, shopping_cart } = req.body; // Match the JSON property name
-    console.log(req.body);
-    console.log(username);
-    console.log(shopping_cart);
 
     const client = await MongoClient.connect(url);
     const database = client.db(db_name);
@@ -120,11 +117,11 @@ app.post('/api/update-cart', async (req, res) => {
     try {
         const user = await collection.findOneAndUpdate(
             { username: username },
-            { $set: { shopping_cart: shopping_cart } }, 
+            { $push: { shopping_cart: { $each: shopping_cart } } }, 
             { returnDocument: 'after' }
         );
 
-        if (!username) {
+        if (!user.username) {
             return res.status(404).json({ message: 'User not found' });
         }
 
