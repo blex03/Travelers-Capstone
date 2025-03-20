@@ -84,6 +84,34 @@ app.post('/api/login', async (req, res) => {
     }
 });
 
+app.post('/api/update-cart', async (req, res) => {
+    const { username, shopping_cart } = req.body; // Match the JSON property name
+    console.log(req.body);
+    console.log(username);
+    console.log(shopping_cart);
+
+    const client = await MongoClient.connect(url);
+    const database = client.db(db_name);
+    const collection = database.collection('Users');
+    try {
+        const user = await collection.findOneAndUpdate(
+            { username: username },
+            { $set: { shopping_cart: shopping_cart } }, 
+            { returnDocument: 'after' }
+        );
+
+        if (!username) {
+            return res.status(404).json({ message: 'User not found' });
+        }
+
+        res.status(200).json({ message: 'Shopping cart updated successfully', user: user.value });
+    } catch (error) {
+        console.error('Error updating shopping cart:', error);
+        res.status(500).json({ message: 'Internal server error' });
+    }
+});
+
+
 
 
 app.listen(port, () => {

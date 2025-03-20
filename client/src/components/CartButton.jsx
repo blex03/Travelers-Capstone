@@ -4,7 +4,7 @@ export const CartButton = () => {
   const navigate = useNavigate();
 
   const handleLoginClick = () => {
-    navigate('/checkout'); // Navigate to the login page
+    navigate('/checkout');
   };
 
   return (

@@ -24,7 +24,7 @@ export const Login = () => {
 
                 // Store the username and other relevant data in local storage
                 localStorage.setItem('username', user.username);
-                localStorage.setItem('userId', user._id);
+                localStorage.setItem('shoppingCart', JSON.stringify(user.shopping_cart));
 
                 // Optionally, dispatch a custom event to notify other components
                 window.dispatchEvent(new Event('storage'));
