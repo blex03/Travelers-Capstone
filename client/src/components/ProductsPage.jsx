@@ -39,12 +39,12 @@ export const ProductsPage = () => {
     };
 
     const containerStyle = {
-        display: 'flex',
+        display: 'flex', 
         flexWrap: 'wrap',
-        justifyContent: 'space-between',
+        justifyContent: 'center',   
         alignItems: 'center',
         padding: '10px',
-        gap: '10px'
+        gap: '30px'
     }
 
     return (

@@ -45,13 +45,13 @@ export const Navbar = () => {
                 {/* Add your logo here if needed */}
             </div>
             <ul className="navbar-links">
-                <li><Link to="/">Home</Link></li>
+                <li><button><Link to="/">Home</Link></button></li>
                 {isLoggedIn ? (
                     <li><button onClick={handleLogout}>Logout</button></li>
                 ) : (
                     <li><button onClick={handleLogin}>Login</button></li>
                 )}
-                <li><Link to="/checkout">Cart</Link></li>
+                <li><button><Link to="/checkout">Cart</Link></button></li>
             </ul>
         </nav>
     );
