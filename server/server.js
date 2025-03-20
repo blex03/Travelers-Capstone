@@ -67,7 +67,7 @@ app.get('/api/cart/:username', async (req, res) => {
         const db = client.db(db_name)
         const collection = db.collection('Users');
         const user = await collection.findOne({ username })
-        const cart = user.cart
+        const cart = user.shopping_cart
 
         const productCollection = db.collection('Products')
         for (const productId of cart) {
