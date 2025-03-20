@@ -1,0 +1,28 @@
+.cart-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.cart-item h3 {
+    margin: 0;
+}
+
+.cart-item h4 {
+    margin: 5px 0;
+}
+
+.item-details {
+    flex-grow: 1;
+}
+
+.delete-button {
+    background-color: #f44336;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
