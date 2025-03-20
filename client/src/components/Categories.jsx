@@ -1,4 +1,7 @@
 import { useNavigate } from 'react-router-dom';
+import { RiSwordFill } from "react-icons/ri";
+import { GiClothes } from "react-icons/gi";
+import { ImPower } from "react-icons/im"
 
 export const Categories = () => {
 
@@ -55,6 +58,7 @@ export const Categories = () => {
     }
     const containerStyle = {
         display: 'flex',
+        font: 'bold',
         justifyContent: 'space-between',
         alignItems: 'center',
         padding: '10px',
@@ -71,15 +75,15 @@ export const Categories = () => {
             <div style={containerStyle}>
                 <button style={productStyle} onClick={fetchWeapons}>
                     <p>Weapons</p>
-                    <p>image</p>
+                    <RiSwordFill size={90}/>
                 </button>
                 <button style={productStyle} onClick={fetchCostumes}>
                     <p>Costumes</p>
-                    <p>image</p>
+                    <GiClothes size={90}s/>
                 </button>
                 <button style={productStyle} onClick={fetchPowers}>
                     <p>Powers</p>
-                    <p>image</p>
+                    <ImPower size={90}/>
                 </button>
             </div>
         </>

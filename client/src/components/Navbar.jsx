@@ -45,6 +45,7 @@ export const Navbar = () => {
                 {/* Add your logo here if needed */}
             </div>
             <ul className="navbar-links">
+                <li><Link to="/">Home</Link></li>
                 {isLoggedIn ? (
                     <li><button onClick={handleLogout}>Logout</button></li>
                 ) : (
