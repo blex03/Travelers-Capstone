@@ -2,6 +2,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    width: 500px;
     border: 1px solid #ccc;
     padding: 10px;
     margin: 10px 0;
@@ -16,7 +17,12 @@
 }
 
 .item-details {
-    flex-grow: 1;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    width: 600px;
+    align-items:center;
+    justify-content: center;
+    float: right;
 }
 
 .delete-button {
