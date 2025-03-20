@@ -11,7 +11,7 @@ export const CartItem = (props) => {
             <div className="cart-item">
                 <div className="item-details">
                     <h3>{props.data.name}</h3>
-                    <h4>${props.data.price}</h4>
+                    <h3>${props.data.price}</h3>
                 </div>
                 <button className="delete-button" onClick={onDelete}>X</button>
             </div>

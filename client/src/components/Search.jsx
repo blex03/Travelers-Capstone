@@ -35,7 +35,7 @@ export const Search = () => {
     };
 
     const searchStyle = {
-        position: 'fixed',
+        position: 'absolute',
         top: '170px',
         right: '50px'
     }

@@ -38,13 +38,21 @@ export const Checkout = () => {
         console.log(`Deleting ${itemId} from ${localStorage.username}'s cart`)
     }
 
+    
+
+    const totalStyle = {
+        position: 'fixed',
+        top: '200px',
+        right: '300px'
+    }
+
     return (
         <>
-            <h1>Checkout</h1>
+            `<h1>Checkout</h1>
             <div>
                 {cartItems.map((product) => (<CartItem deleteFunction={onDelete} key={product._id} data={product}/>))}
             </div>
-            <h3>{`Total: $${total}`}</h3>
+            <h1 style={totalStyle}>{`Total: $${total}`}</h1>`
         </>
     )
 }
