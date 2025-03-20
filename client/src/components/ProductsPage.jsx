@@ -40,6 +40,7 @@ export const ProductsPage = () => {
 
     const containerStyle = {
         display: 'flex',
+        flexWrap: 'wrap',
         justifyContent: 'space-between',
         alignItems: 'center',
         padding: '10px',
