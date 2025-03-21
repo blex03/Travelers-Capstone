@@ -58,7 +58,7 @@ export const Product = (props) => {
         <>
             <div style={productStyle}>
                 <h3>{props.data.name}</h3>
-                <p>${props.data.price}</p>
+                <p>${props.data.price.toFixed(2)}</p>
                 <button style={buttonStyle} onClick={onAddToCart}>
                     Add to Cart
                 </button>
