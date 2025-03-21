@@ -70,7 +70,7 @@ export const Categories = () => {
 
     return(
         <>
-            <h2>Categories</h2>
+            <h2 style={{color: 'white'}}>Categories</h2>
             <div style={containerStyle}>
                 <button style={productStyle} onClick={fetchWeapons}>
                     <p>Weapons</p>

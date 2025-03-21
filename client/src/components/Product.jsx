@@ -43,6 +43,7 @@ export const Product = (props) => {
         alignItems: 'center',
         padding: '10px',
         boxShadow: '0 4px 8px rgba(0, 0, 0, 0.1)',
+        backgroundColor: 'white'
     };
 
     const buttonStyle = {

@@ -47,7 +47,7 @@ export const Login = () => {
             <h1>Login Page</h1>
             <form onSubmit={handleLogin}>
                 <div>
-                    <label htmlFor="username">Username:</label>
+                    <label style={{color: 'white'}} htmlFor="username">Username:</label>
                     <input
                         type="text"
                         id="username"
@@ -57,7 +57,7 @@ export const Login = () => {
                     />
                 </div>
                 <div>
-                    <label htmlFor="password">Password:</label>
+                    <label style={{color: 'white'}} htmlFor="password">Password:</label>
                     <input
                         type="password"
                         id="password"

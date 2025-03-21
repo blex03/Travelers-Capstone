@@ -32,7 +32,7 @@ export const Featured = () => {
     
     return(
         <>
-            <h2>Featured Products!</h2>
+            <h2 style={{color: 'white'}}>Featured Products!</h2>
             <div style={containerStyle}>
                 {featuredProducts.map((product) => (<Product key={product._id} data={product}/>))}
             </div>
