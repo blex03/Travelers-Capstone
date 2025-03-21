@@ -1,0 +1,1044 @@
+name,price,category,popularity,durability,category_encoded
+"Iron Man Armor",99.99,"Costumes",95,80,0
+"Captain America's Shield",49.99,"Weapons",90,85,2
+"Thor's Mjolnir Hammer",29.99,"Weapons",85,90,2
+"Spider-Man Web Shooter",19.99,"Powers",100,60,1
+"Black Widow's Gauntlets",45.99,"Weapons",85,75,2
+"Hulk's Smash Fist",22.99,"Weapons",80,95,2
+"Black Panther's Vibranium Suit",120.00,"Costumes",90,95,0
+"Hawkeye's Bow and Arrows",45.00,"Weapons",75,80,2
+"Ant-Man's Suit",75.00,"Costumes",80,85,0
+"Scarlet Witch's Magic Powers",89.99,"Powers",85,90,1
+"Doctor Strange's Cloak of Levitation",55.00,"Costumes",70,90,0
+"Vision's Mind Stone",55.99,"Weapons",100,95,2
+"Loki's Scepter",49.99,"Weapons",85,80,2
+"Thor's Helmet",40.00,"Costumes",75,80,0
+"Iron Spider Suit",110.00,"Costumes",95,90,0
+"Wolverine's Claws",17.99,"Weapons",70,85,2
+"Black Widow's Combat Boots",30.00,"Costumes",80,80,0
+"Captain Marvel's Suit",75.00,"Costumes",90,85,0
+"The Hulk's Gamma Gloves",40.00,"Weapons",85,90,2
+"Iron Man's Arc Reactor",55.00,"Weapons",100,80,2
+"Spider-Man's Suit",50.00,"Costumes",95,75,0
+"Black Panther's Mask",32.00,"Costumes",85,90,0
+"Green Goblin's Glider",39.99,"Weapons",80,75,2
+"Iron Man's Repulsor Blasters",29.99,"Weapons",90,85,2
+"Captain America's Vibranium Shield",65.00,"Weapons",100,95,2
+"Thor's Stormbreaker Axe",100.00,"Weapons",85,95,2
+"Hawkeye's Quiver",25.00,"Weapons",70,85,2
+"The Falcon's Wings",75.00,"Weapons",80,90,2
+"Winter Soldier's Arm",60.00,"Weapons",70,90,2
+"Shuri's Vibranium Tech",40.99,"Powers",80,95,1
+"Black Widow's Widow's Bite",22.99,"Weapons",80,85,2
+"Hulkbuster Armor",200.00,"Costumes",100,100,0
+"Vision's Solar Gem",35.00,"Weapons",90,80,2
+"Doctor Strange's Eye of Agamotto",50.00,"Weapons",85,90,2
+"Iron Man's Mark 50 Armor",150.00,"Costumes",95,85,0
+"Captain Marvel's Photon Blasts",65.99,"Powers",90,85,1
+"Thor's Lightning Powers",50.00,"Powers",95,100,1
+"Iron Man's Unibeam",75.00,"Weapons",100,80,2
+"Captain America's Tactical Gloves",25.99,"Costumes",75,90,0
+"Thor's Battle Axe",100.00,"Weapons",85,95,2
+"Ant-Man's Shrinking Powers",40.00,"Powers",80,75,1
+"Black Widow's Tactical Vest",55.00,"Costumes",85,90,0
+"Hawkeye's Targeting System",20.00,"Weapons",70,75,2
+Ant-Man's Shrinking Powers,32.22662136331361,Powers,79,72,1
+Iron Spider Suit,102.79075857050287,Costumes,91,97,0
+Hulk's Smash Fist,24.799850248980793,Weapons,75,85,2
+Hulk's Smash Fist,17.362759496072066,Weapons,83,100,2
+Captain America's Shield,51.21490125877226,Weapons,95,92,2
+Hawkeye's Quiver,19.408812440813932,Weapons,74,83,2
+Iron Man Armor,105.16614734259534,Costumes,92,83,0
+Black Panther's Mask,27.557426833432835,Costumes,83,90,0
+Black Panther's Vibranium Suit,111.85491686760295,Costumes,86,96,0
+Green Goblin's Glider,42.06452062733783,Weapons,75,79,2
+Iron Man's Mark 50 Armor,142.49652325706418,Costumes,96,77,0
+Captain Marvel's Photon Blasts,61.85356562814185,Powers,95,94,1
+Iron Man's Repulsor Blasters,31.537042905135237,Weapons,86,76,2
+Hawkeye's Targeting System,14.557965513030936,Weapons,69,67,2
+Iron Spider Suit,117.3296733351054,Costumes,96,88,0
+Shuri's Vibranium Tech,43.703688885288,Powers,80,90,1
+Iron Man's Repulsor Blasters,27.095414004550427,Weapons,95,83,2
+Black Widow's Tactical Vest,46.42805019157097,Costumes,90,85,0
+Iron Man's Mark 50 Armor,154.58253595900698,Costumes,92,89,0
+Captain America's Vibranium Shield,60.398956535685556,Weapons,100,100,2
+Iron Spider Suit,113.6922850197975,Costumes,90,87,0
+Thor's Mjolnir Hammer,36.090916015424284,Weapons,86,88,2
+Black Widow's Gauntlets,40.20965687172653,Weapons,89,75,2
+Thor's Helmet,43.1087733058976,Costumes,76,90,0
+Shuri's Vibranium Tech,33.84743180884126,Powers,77,92,1
+Captain Marvel's Photon Blasts,66.7695457933458,Powers,94,88,1
+Iron Man's Unibeam,72.98801010280795,Weapons,98,74,2
+Vision's Solar Gem,34.87031669779262,Weapons,85,73,2
+Scarlet Witch's Magic Powers,92.5389208340618,Powers,90,93,1
+Captain America's Tactical Gloves,17.260554123039142,Costumes,76,99,0
+Shuri's Vibranium Tech,41.57228690198274,Powers,83,85,1
+Hawkeye's Bow and Arrows,48.63420738053149,Weapons,78,78,2
+Black Widow's Tactical Vest,51.8035094606209,Costumes,84,93,0
+Doctor Strange's Cloak of Levitation,54.07447412658413,Costumes,69,96,0
+Vision's Mind Stone,56.14363349208651,Weapons,96,100,2
+Iron Man's Arc Reactor,61.83338696344934,Weapons,100,89,2
+Loki's Scepter,43.046785370992694,Weapons,82,87,2
+Doctor Strange's Eye of Agamotto,58.36986988791405,Weapons,89,90,2
+Hulkbuster Armor,190.38953484771665,Costumes,100,99,0
+Wolverine's Claws,9.148503329883749,Weapons,74,77,2
+Hulk's Smash Fist,27.628151896892554,Weapons,76,100,2
+Ant-Man's Suit,67.56782928999526,Costumes,82,92,0
+Doctor Strange's Cloak of Levitation,50.30113257880118,Costumes,74,93,0
+Thor's Helmet,48.578269860043534,Costumes,73,79,0
+Thor's Stormbreaker Axe,109.90298713321789,Weapons,90,96,2
+Winter Soldier's Arm,67.99228169285891,Weapons,72,83,2
+Wolverine's Claws,12.483946740631145,Weapons,70,75,2
+Iron Man's Unibeam,76.0784304484896,Weapons,100,77,2
+Iron Man Armor,91.40986172018064,Costumes,100,71,0
+Iron Spider Suit,101.34800656220615,Costumes,90,90,0
+Black Widow's Gauntlets,46.273122396171786,Weapons,84,80,2
+Thor's Helmet,40.78467862789509,Costumes,79,88,0
+Black Widow's Widow's Bite,17.84994484791449,Weapons,82,88,2
+Loki's Scepter,41.876515929837645,Weapons,90,83,2
+Green Goblin's Glider,38.461572460398415,Weapons,82,66,2
+Black Widow's Tactical Vest,64.68330422731933,Costumes,81,81,0
+Thor's Stormbreaker Axe,104.56427176882366,Weapons,81,92,2
+Loki's Scepter,43.79417816881623,Weapons,87,74,2
+The Falcon's Wings,68.66976071574467,Weapons,82,87,2
+Black Widow's Gauntlets,44.852614901069146,Weapons,88,68,2
+Spider-Man Web Shooter,23.03289787997044,Powers,100,50,1
+Hulk's Smash Fist,31.517339660162552,Weapons,78,90,2
+Hawkeye's Quiver,24.71282250901437,Weapons,68,87,2
+Spider-Man Web Shooter,13.282742428030536,Powers,95,62,1
+Black Widow's Combat Boots,38.530361471186666,Costumes,82,79,0
+The Falcon's Wings,78.93183007200325,Weapons,83,95,2
+Scarlet Witch's Magic Powers,83.78795734535274,Powers,83,81,1
+Iron Man's Unibeam,79.71474357578087,Weapons,95,80,2
+Spider-Man Web Shooter,10.99284674527907,Powers,100,66,1
+Doctor Strange's Eye of Agamotto,43.148654558789666,Weapons,88,82,2
+Vision's Mind Stone,47.36042665407585,Weapons,96,92,2
+Thor's Stormbreaker Axe,92.39773227894248,Weapons,89,92,2
+Iron Man's Unibeam,76.89038307066882,Weapons,100,72,2
+Hawkeye's Quiver,28.14746328945045,Weapons,74,91,2
+Spider-Man's Suit,58.694125154728546,Costumes,93,75,0
+Wolverine's Claws,13.302290250627074,Weapons,67,95,2
+Iron Man's Arc Reactor,54.14449145140904,Weapons,96,70,2
+Shuri's Vibranium Tech,43.41318510986186,Powers,84,88,1
+Black Widow's Gauntlets,46.74268808203255,Weapons,88,73,2
+Ant-Man's Suit,83.66518755987418,Costumes,76,82,0
+Iron Man's Repulsor Blasters,25.689747824333132,Weapons,92,92,2
+Iron Man's Arc Reactor,57.233555314519,Weapons,100,86,2
+Iron Man Armor,103.34726407425167,Costumes,98,79,0
+Hawkeye's Targeting System,12.07173003836423,Weapons,67,73,2
+Hawkeye's Bow and Arrows,52.794254140114184,Weapons,78,74,2
+Captain Marvel's Suit,70.63512542915788,Costumes,88,85,0
+Thor's Helmet,43.74994257602661,Costumes,74,86,0
+Hulkbuster Armor,195.0224250413979,Costumes,95,92,0
+Ant-Man's Shrinking Powers,38.47151545127453,Powers,79,66,1
+Iron Man Armor,96.66113077210176,Costumes,92,90,0
+Black Widow's Combat Boots,23.231639525477725,Costumes,82,87,0
+The Falcon's Wings,76.21813729549493,Weapons,76,82,2
+Scarlet Witch's Magic Powers,90.90180578411044,Powers,85,98,1
+Captain Marvel's Photon Blasts,58.95187571134965,Powers,87,76,1
+Iron Man's Arc Reactor,52.29303030654512,Weapons,95,81,2
+Thor's Helmet,43.64133376621153,Costumes,80,73,0
+Green Goblin's Glider,45.592324837428855,Weapons,81,84,2
+Scarlet Witch's Magic Powers,98.50527645139113,Powers,83,85,1
+Vision's Mind Stone,63.618324093266494,Weapons,95,90,2
+Black Panther's Mask,37.647729922952635,Costumes,86,87,0
+Captain Marvel's Suit,68.18395685961463,Costumes,86,87,0
+Thor's Mjolnir Hammer,37.161865026755635,Weapons,83,86,2
+Shuri's Vibranium Tech,37.98316848891837,Powers,78,92,1
+Captain America's Shield,53.19066365497258,Weapons,91,85,2
+Captain Marvel's Suit,82.28705884060572,Costumes,89,86,0
+Black Widow's Tactical Vest,55.18811351056075,Costumes,90,97,0
+Black Panther's Mask,40.784742806494314,Costumes,81,88,0
+Vision's Mind Stone,57.601794674774155,Weapons,99,86,2
+Black Panther's Vibranium Suit,121.93142509975489,Costumes,90,95,0
+The Falcon's Wings,77.12417706612287,Weapons,83,83,2
+Captain America's Vibranium Shield,72.990094658224,Weapons,98,93,2
+Thor's Mjolnir Hammer,34.16570567668341,Weapons,80,96,2
+Iron Man's Mark 50 Armor,153.73714293829053,Costumes,100,81,0
+Iron Man's Repulsor Blasters,28.615947992499738,Weapons,95,85,2
+Thor's Battle Axe,96.2783129011672,Weapons,81,94,2
+Vision's Solar Gem,31.185693244173066,Weapons,91,80,2
+Thor's Stormbreaker Axe,103.94416828388798,Weapons,88,89,2
+Loki's Scepter,48.39892667545817,Weapons,86,75,2
+Thor's Battle Axe,101.38210509731618,Weapons,86,100,2
+Iron Man Armor,96.06749898536707,Costumes,93,83,0
+Iron Man's Unibeam,77.13323140959525,Weapons,100,84,2
+Winter Soldier's Arm,58.84319598609615,Weapons,68,96,2
+Black Widow's Widow's Bite,28.864707982120038,Weapons,77,77,2
+The Hulk's Gamma Gloves,40.30904019830433,Weapons,90,99,2
+Black Panther's Mask,23.867744001511255,Costumes,83,89,0
+Iron Spider Suit,116.13125789152531,Costumes,92,80,0
+Thor's Mjolnir Hammer,24.886850881567,Weapons,87,99,2
+Black Widow's Gauntlets,45.098323367601786,Weapons,90,83,2
+Loki's Scepter,54.356918309979775,Weapons,86,85,2
+Thor's Stormbreaker Axe,94.87968879156878,Weapons,90,85,2
+Black Panther's Vibranium Suit,125.5684081353465,Costumes,88,90,0
+Doctor Strange's Eye of Agamotto,49.290997691485046,Weapons,88,87,2
+Hawkeye's Bow and Arrows,44.129236509403455,Weapons,77,86,2
+Captain Marvel's Photon Blasts,67.89904636938839,Powers,92,94,1
+Vision's Solar Gem,33.53481513717311,Weapons,93,84,2
+Doctor Strange's Cloak of Levitation,59.8731088431917,Costumes,72,94,0
+Black Widow's Combat Boots,35.03553573001023,Costumes,85,78,0
+Doctor Strange's Eye of Agamotto,49.691940341405335,Weapons,83,88,2
+Winter Soldier's Arm,51.549667077294714,Weapons,69,87,2
+Captain Marvel's Suit,71.71695073242628,Costumes,93,77,0
+Ant-Man's Suit,68.01661316026173,Costumes,81,79,0
+Thor's Helmet,31.28457701427756,Costumes,76,80,0
+Iron Man's Mark 50 Armor,149.318486067023,Costumes,90,81,0
+Hawkeye's Quiver,22.789536253338824,Weapons,74,75,2
+Thor's Lightning Powers,47.60762057855423,Powers,90,100,1
+Iron Man's Arc Reactor,60.06950250118771,Weapons,100,87,2
+Iron Man's Mark 50 Armor,155.99736341882536,Costumes,93,90,0
+Iron Spider Suit,105.45870623526513,Costumes,97,80,0
+Captain America's Vibranium Shield,61.72259087396765,Weapons,100,97,2
+Doctor Strange's Cloak of Levitation,61.810113261251175,Costumes,67,99,0
+Iron Man's Mark 50 Armor,140.53932903810275,Costumes,96,93,0
+Thor's Lightning Powers,53.25999513672323,Powers,91,100,1
+The Falcon's Wings,67.71398974461128,Weapons,82,85,2
+Spider-Man Web Shooter,15.193126278386092,Powers,100,56,1
+Shuri's Vibranium Tech,37.52691609762617,Powers,81,93,1
+Hawkeye's Quiver,20.045430635647612,Weapons,66,90,2
+Captain America's Shield,54.970485221657015,Weapons,85,86,2
+Iron Spider Suit,113.0028818649975,Costumes,100,81,0
+Captain America's Shield,58.98223465431978,Weapons,88,75,2
+Thor's Battle Axe,93.04764691569581,Weapons,82,100,2
+Hawkeye's Targeting System,12.287788922186131,Weapons,68,79,2
+Black Widow's Combat Boots,35.33796196712481,Costumes,77,89,0
+Captain America's Tactical Gloves,35.26469488202417,Costumes,71,85,0
+Iron Man's Arc Reactor,47.16197499315213,Weapons,95,79,2
+Thor's Lightning Powers,53.54694573700817,Powers,96,100,1
+Loki's Scepter,41.5099295568612,Weapons,90,77,2
+Black Panther's Vibranium Suit,123.94386004991544,Costumes,89,100,0
+Hawkeye's Bow and Arrows,50.92454433200424,Weapons,79,71,2
+Green Goblin's Glider,40.64490490621001,Weapons,85,76,2
+Black Widow's Gauntlets,46.10921579354156,Weapons,85,65,2
+Hawkeye's Quiver,31.44661836180116,Weapons,66,88,2
+Iron Man's Repulsor Blasters,32.70170212202892,Weapons,92,79,2
+The Falcon's Wings,68.52273922172118,Weapons,83,100,2
+Captain Marvel's Suit,77.31824708107102,Costumes,93,90,0
+Shuri's Vibranium Tech,39.701489860077885,Powers,84,93,1
+Spider-Man's Suit,57.03426320038663,Costumes,91,73,0
+Winter Soldier's Arm,54.87726878381912,Weapons,72,98,2
+Thor's Battle Axe,103.36376940890987,Weapons,85,85,2
+Hulkbuster Armor,207.01905672624918,Costumes,97,100,0
+Thor's Helmet,37.096499323521904,Costumes,74,80,0
+Captain Marvel's Suit,82.6063995951645,Costumes,89,92,0
+Iron Man Armor,100.32254503429868,Costumes,93,72,0
+Wolverine's Claws,22.391493282083886,Weapons,72,92,2
+Wolverine's Claws,21.80218678893046,Weapons,75,90,2
+Winter Soldier's Arm,65.85865736264635,Weapons,66,89,2
+Iron Spider Suit,108.08802257355856,Costumes,93,89,0
+Hawkeye's Targeting System,21.631111706647346,Weapons,72,82,2
+Doctor Strange's Eye of Agamotto,46.875147882924054,Weapons,88,90,2
+Green Goblin's Glider,44.04709884371538,Weapons,79,74,2
+Black Widow's Combat Boots,24.610760825970154,Costumes,78,80,0
+Hawkeye's Bow and Arrows,49.85762127278208,Weapons,72,76,2
+Thor's Helmet,44.77209307017901,Costumes,74,88,0
+Doctor Strange's Eye of Agamotto,51.935814810246036,Weapons,81,86,2
+The Hulk's Gamma Gloves,34.54966326965109,Weapons,82,89,2
+Iron Man Armor,104.15036971422062,Costumes,92,78,0
+Thor's Mjolnir Hammer,39.47589862205476,Weapons,88,89,2
+Ant-Man's Suit,77.75739310211856,Costumes,82,78,0
+Iron Man Armor,101.47128439252664,Costumes,97,85,0
+Winter Soldier's Arm,56.814118651205845,Weapons,65,88,2
+Black Widow's Widow's Bite,15.27174281449849,Weapons,76,87,2
+Hulkbuster Armor,191.4816434051128,Costumes,100,91,0
+Scarlet Witch's Magic Powers,82.9739516894731,Powers,89,89,1
+Hulk's Smash Fist,32.8683624542044,Weapons,76,100,2
+Hawkeye's Quiver,27.126353024859256,Weapons,74,82,2
+Doctor Strange's Eye of Agamotto,47.60756052293099,Weapons,87,89,2
+Iron Man's Unibeam,84.80062520933596,Weapons,99,88,2
+Thor's Battle Axe,91.20460608745081,Weapons,81,91,2
+Ant-Man's Shrinking Powers,34.22050390610786,Powers,85,67,1
+Doctor Strange's Cloak of Levitation,49.79730355349385,Costumes,73,82,0
+Doctor Strange's Cloak of Levitation,45.05351445205771,Costumes,72,99,0
+Black Widow's Widow's Bite,18.815185780620553,Weapons,78,84,2
+The Hulk's Gamma Gloves,44.059751161874345,Weapons,87,82,2
+Iron Spider Suit,118.47822088965097,Costumes,100,98,0
+Hawkeye's Targeting System,26.078113605628676,Weapons,68,78,2
+Hawkeye's Bow and Arrows,45.891247574211576,Weapons,80,74,2
+Captain Marvel's Suit,81.5326231930012,Costumes,86,76,0
+Doctor Strange's Cloak of Levitation,60.85257132464823,Costumes,74,98,0
+The Hulk's Gamma Gloves,38.78306897347475,Weapons,87,89,2
+Thor's Stormbreaker Axe,108.85352481488081,Weapons,88,100,2
+Hulkbuster Armor,198.75517727143196,Costumes,100,91,0
+The Falcon's Wings,79.69067846571231,Weapons,84,88,2
+Captain America's Shield,41.81653773261971,Weapons,95,93,2
+Iron Man's Unibeam,84.01572555612705,Weapons,100,78,2
+Thor's Lightning Powers,40.804633462892326,Powers,92,100,1
+Doctor Strange's Eye of Agamotto,53.030189788673724,Weapons,84,85,2
+Iron Man's Unibeam,73.71769974154006,Weapons,100,72,2
+Black Widow's Widow's Bite,19.949221125893008,Weapons,80,85,2
+Hawkeye's Targeting System,12.091997691651148,Weapons,67,75,2
+Hawkeye's Quiver,28.87347347966865,Weapons,69,87,2
+Captain Marvel's Photon Blasts,56.723942606274164,Powers,86,85,1
+Black Widow's Combat Boots,26.465475725519894,Costumes,81,86,0
+Iron Man Armor,103.14320772966258,Costumes,98,84,0
+Hawkeye's Quiver,16.084081707534573,Weapons,73,86,2
+Thor's Battle Axe,105.12886308111148,Weapons,90,99,2
+Spider-Man Web Shooter,14.061164767005476,Powers,100,54,1
+The Hulk's Gamma Gloves,38.762321901447564,Weapons,87,83,2
+Captain America's Shield,59.45293631643389,Weapons,94,82,2
+Doctor Strange's Cloak of Levitation,51.2150027678667,Costumes,65,97,0
+Hawkeye's Quiver,16.86418402563045,Weapons,66,89,2
+Hawkeye's Bow and Arrows,47.95419377567517,Weapons,72,85,2
+The Hulk's Gamma Gloves,40.177440301390234,Weapons,84,93,2
+Black Widow's Widow's Bite,32.59489265206751,Weapons,78,89,2
+Captain Marvel's Photon Blasts,58.88283936971217,Powers,88,94,1
+Vision's Solar Gem,39.92585090984795,Weapons,87,72,2
+Captain Marvel's Suit,80.4535026535401,Costumes,91,85,0
+Vision's Solar Gem,30.343453261338098,Weapons,85,79,2
+Iron Man's Arc Reactor,61.74951845212843,Weapons,100,85,2
+Scarlet Witch's Magic Powers,88.92094786086389,Powers,87,91,1
+Black Panther's Mask,33.038348341416224,Costumes,88,92,0
+Shuri's Vibranium Tech,49.64704511430522,Powers,78,92,1
+Thor's Lightning Powers,47.65941697859204,Powers,96,91,1
+Spider-Man's Suit,54.894103031303914,Costumes,96,77,0
+Hawkeye's Targeting System,25.847873213998607,Weapons,75,69,2
+Hulkbuster Armor,209.2964887674182,Costumes,97,100,0
+Iron Man's Unibeam,71.63989407862728,Weapons,96,84,2
+Black Panther's Vibranium Suit,120.51902173615123,Costumes,92,85,0
+Scarlet Witch's Magic Powers,88.18957239492728,Powers,90,84,1
+Black Widow's Gauntlets,45.37981201969464,Weapons,84,75,2
+Thor's Battle Axe,103.85409197173765,Weapons,90,87,2
+Black Panther's Mask,39.046826731317864,Costumes,88,92,0
+Spider-Man's Suit,52.53598358015975,Costumes,97,82,0
+Thor's Mjolnir Hammer,32.339189232054466,Weapons,83,100,2
+The Hulk's Gamma Gloves,49.94851845912431,Weapons,81,93,2
+Black Panther's Vibranium Suit,125.20739385988531,Costumes,86,99,0
+Doctor Strange's Cloak of Levitation,58.88002325586469,Costumes,65,81,0
+Spider-Man's Suit,55.922869303244234,Costumes,94,76,0
+Iron Man's Repulsor Blasters,28.603735757107998,Weapons,88,91,2
+Hawkeye's Quiver,26.318561238318736,Weapons,67,80,2
+Vision's Mind Stone,47.569367013199894,Weapons,100,100,2
+Wolverine's Claws,17.94334504735902,Weapons,74,79,2
+Iron Spider Suit,109.22299826709995,Costumes,94,94,0
+Black Widow's Combat Boots,33.336814345329614,Costumes,82,79,0
+Iron Man's Mark 50 Armor,143.15951244143574,Costumes,97,86,0
+Iron Man's Unibeam,70.98308498247545,Weapons,100,78,2
+Shuri's Vibranium Tech,47.89607850285198,Powers,78,97,1
+Black Widow's Widow's Bite,15.123065348447216,Weapons,81,93,2
+Green Goblin's Glider,41.4862386035729,Weapons,79,65,2
+Hawkeye's Targeting System,17.916114818227346,Weapons,65,83,2
+Spider-Man Web Shooter,28.20233907437421,Powers,100,59,1
+Iron Spider Suit,112.14129996328532,Costumes,95,87,0
+Ant-Man's Shrinking Powers,33.802639785541764,Powers,79,69,1
+Ant-Man's Shrinking Powers,31.94327859631236,Powers,85,85,1
+Thor's Mjolnir Hammer,26.16865767905272,Weapons,87,81,2
+Iron Man's Unibeam,72.2972246605694,Weapons,97,72,2
+The Hulk's Gamma Gloves,36.53438251428021,Weapons,86,85,2
+Loki's Scepter,42.63319595493567,Weapons,88,81,2
+Doctor Strange's Eye of Agamotto,50.0358952452968,Weapons,84,85,2
+Black Widow's Combat Boots,38.28097907076624,Costumes,82,79,0
+Black Panther's Mask,38.084650772090214,Costumes,87,82,0
+Scarlet Witch's Magic Powers,95.0730298612267,Powers,83,92,1
+Captain Marvel's Photon Blasts,63.30550098811132,Powers,91,75,1
+Black Widow's Combat Boots,30.731446165381183,Costumes,82,81,0
+Black Widow's Combat Boots,31.691201833043323,Costumes,85,81,0
+Black Panther's Vibranium Suit,123.49673110750643,Costumes,92,85,0
+Thor's Battle Axe,107.68469690429704,Weapons,88,95,2
+Thor's Battle Axe,94.4273440014798,Weapons,81,100,2
+Shuri's Vibranium Tech,49.177752768557845,Powers,79,100,1
+Hawkeye's Quiver,17.333518734541087,Weapons,65,76,2
+Iron Man's Arc Reactor,64.9185474951006,Weapons,96,73,2
+Wolverine's Claws,25.735186170570046,Weapons,67,87,2
+Shuri's Vibranium Tech,38.410230309737656,Powers,83,98,1
+Iron Man's Unibeam,79.84538029530631,Weapons,97,83,2
+Black Widow's Tactical Vest,46.98043269421057,Costumes,87,99,0
+Hawkeye's Quiver,33.7810613142731,Weapons,69,76,2
+Iron Man's Repulsor Blasters,24.335393693951232,Weapons,92,82,2
+Iron Man's Repulsor Blasters,21.977092492122605,Weapons,95,86,2
+Iron Man's Mark 50 Armor,158.0339242484931,Costumes,100,86,0
+Spider-Man Web Shooter,17.95279285488746,Powers,98,53,1
+Shuri's Vibranium Tech,32.82346847635042,Powers,78,100,1
+Ant-Man's Shrinking Powers,41.9429191903909,Powers,75,66,1
+Black Panther's Mask,26.87137794328047,Costumes,82,98,0
+Thor's Helmet,31.372203056487116,Costumes,78,76,0
+Iron Man's Unibeam,69.31902703837349,Weapons,98,80,2
+Scarlet Witch's Magic Powers,95.76287508555218,Powers,89,80,1
+Captain Marvel's Suit,82.16812252760353,Costumes,87,79,0
+Iron Man's Mark 50 Armor,145.01308393456247,Costumes,92,78,0
+Hawkeye's Targeting System,27.32895777013602,Weapons,67,65,2
+Green Goblin's Glider,45.789693284695076,Weapons,78,83,2
+Spider-Man's Suit,40.31562167022321,Costumes,94,66,0
+Ant-Man's Suit,79.83436113908299,Costumes,83,78,0
+Black Widow's Gauntlets,45.51491930846501,Weapons,85,81,2
+Iron Man's Unibeam,67.1810802000769,Weapons,100,77,2
+Thor's Battle Axe,90.86730073798344,Weapons,90,100,2
+Iron Man's Arc Reactor,54.16085044195364,Weapons,95,71,2
+Black Widow's Widow's Bite,29.935970863344853,Weapons,81,78,2
+Hulkbuster Armor,204.24802629794192,Costumes,100,92,0
+Hulk's Smash Fist,19.43223639492652,Weapons,77,87,2
+Ant-Man's Suit,70.50031999115906,Costumes,85,93,0
+Captain Marvel's Photon Blasts,70.23305592852613,Powers,91,94,1
+Doctor Strange's Eye of Agamotto,45.8979549189978,Weapons,88,99,2
+The Falcon's Wings,66.98356923358084,Weapons,76,100,2
+Black Widow's Tactical Vest,62.55412426128428,Costumes,88,86,0
+The Falcon's Wings,74.03109831930563,Weapons,78,93,2
+Black Panther's Mask,38.54838449560089,Costumes,86,93,0
+Black Panther's Vibranium Suit,116.25096699994266,Costumes,90,93,0
+Iron Man's Repulsor Blasters,39.06185035238249,Weapons,95,90,2
+Black Widow's Gauntlets,37.81449576732098,Weapons,81,67,2
+The Falcon's Wings,66.93128865131571,Weapons,80,84,2
+Captain Marvel's Photon Blasts,57.189619559416926,Powers,93,92,1
+Black Panther's Mask,35.40026529464592,Costumes,86,91,0
+Hawkeye's Targeting System,28.822597377044595,Weapons,71,66,2
+The Hulk's Gamma Gloves,42.00820182449354,Weapons,85,83,2
+Thor's Lightning Powers,50.14825093936008,Powers,92,100,1
+Iron Spider Suit,116.94549696269905,Costumes,95,97,0
+Iron Man's Repulsor Blasters,22.28770627060616,Weapons,89,93,2
+Iron Spider Suit,116.14442742304689,Costumes,98,99,0
+Thor's Battle Axe,103.49953422586607,Weapons,88,85,2
+Captain America's Tactical Gloves,34.571685819898725,Costumes,74,80,0
+Vision's Mind Stone,51.455407774254496,Weapons,99,95,2
+Green Goblin's Glider,30.112115788073176,Weapons,77,83,2
+Hawkeye's Targeting System,18.015686879990312,Weapons,67,85,2
+Captain America's Shield,41.825153661088905,Weapons,93,81,2
+Captain America's Vibranium Shield,63.396649875290066,Weapons,100,90,2
+Iron Man's Repulsor Blasters,26.222747394084326,Weapons,90,93,2
+Captain America's Tactical Gloves,17.689140799543583,Costumes,70,84,0
+Doctor Strange's Cloak of Levitation,60.08871758249971,Costumes,65,82,0
+Captain Marvel's Suit,73.86225948660652,Costumes,91,90,0
+Captain America's Tactical Gloves,24.83088373395558,Costumes,74,86,0
+Vision's Solar Gem,27.276350162204036,Weapons,91,73,2
+The Hulk's Gamma Gloves,43.56435785867069,Weapons,89,95,2
+Doctor Strange's Eye of Agamotto,53.342651174726996,Weapons,80,87,2
+Thor's Stormbreaker Axe,109.6889131664224,Weapons,80,85,2
+Thor's Helmet,36.02838724036874,Costumes,73,74,0
+Black Widow's Combat Boots,25.788942624348753,Costumes,76,70,0
+Hulkbuster Armor,204.94028246859534,Costumes,97,94,0
+Captain America's Vibranium Shield,65.65164695734848,Weapons,98,100,2
+Captain Marvel's Photon Blasts,72.65708404839756,Powers,90,77,1
+Thor's Stormbreaker Axe,107.23528724045177,Weapons,80,98,2
+Captain America's Shield,49.1850850071255,Weapons,86,85,2
+Thor's Lightning Powers,48.58568572601671,Powers,96,100,1
+Hawkeye's Quiver,20.790304111715162,Weapons,71,75,2
+Spider-Man's Suit,43.437463611561384,Costumes,99,79,0
+Iron Man's Repulsor Blasters,21.75259762595769,Weapons,86,82,2
+The Falcon's Wings,76.77742576605824,Weapons,83,82,2
+Thor's Stormbreaker Axe,107.41048832390823,Weapons,85,92,2
+Black Panther's Mask,37.58235737206529,Costumes,81,96,0
+Ant-Man's Shrinking Powers,32.28053279677105,Powers,83,71,1
+Green Goblin's Glider,37.01199469914721,Weapons,85,69,2
+Wolverine's Claws,10.046090555555255,Weapons,69,81,2
+Vision's Mind Stone,58.037979705463314,Weapons,100,87,2
+Vision's Mind Stone,65.01584281159164,Weapons,100,100,2
+Shuri's Vibranium Tech,46.07891650493972,Powers,84,99,1
+Thor's Lightning Powers,52.85983661343132,Powers,99,100,1
+Ant-Man's Shrinking Powers,36.322777889811604,Powers,82,67,1
+Black Widow's Widow's Bite,21.834161276725695,Weapons,79,83,2
+Iron Man's Unibeam,66.12344240426157,Weapons,100,72,2
+Iron Man's Arc Reactor,54.23484972892908,Weapons,95,71,2
+Iron Man's Repulsor Blasters,36.62393263326243,Weapons,86,95,2
+Hulk's Smash Fist,25.29016776831147,Weapons,83,97,2
+Shuri's Vibranium Tech,42.596588148223816,Powers,75,99,1
+Thor's Lightning Powers,53.0367490929722,Powers,95,100,1
+Black Widow's Widow's Bite,23.01734603745655,Weapons,75,89,2
+Black Panther's Vibranium Suit,126.21933622645241,Costumes,90,87,0
+Vision's Solar Gem,37.92254182287438,Weapons,85,77,2
+Winter Soldier's Arm,69.81972045293776,Weapons,73,96,2
+Thor's Battle Axe,93.17492415963083,Weapons,85,94,2
+Captain America's Vibranium Shield,63.17538794494641,Weapons,100,100,2
+Spider-Man Web Shooter,25.774538631273295,Powers,100,60,1
+Black Widow's Gauntlets,42.58381510235458,Weapons,88,77,2
+The Hulk's Gamma Gloves,35.03991569932307,Weapons,90,99,2
+Scarlet Witch's Magic Powers,86.65724072121112,Powers,89,84,1
+Green Goblin's Glider,36.19463475103625,Weapons,85,77,2
+Ant-Man's Suit,76.90082456303149,Costumes,76,84,0
+Captain Marvel's Photon Blasts,63.523586121126,Powers,90,79,1
+Hawkeye's Targeting System,24.056617443108404,Weapons,75,81,2
+Hulk's Smash Fist,25.91049641466976,Weapons,81,100,2
+Iron Man's Repulsor Blasters,20.354610755830652,Weapons,89,80,2
+Thor's Helmet,36.834646902630965,Costumes,77,76,0
+Iron Spider Suit,119.99953242206057,Costumes,92,82,0
+The Hulk's Gamma Gloves,46.88856777371767,Weapons,81,96,2
+Iron Man's Mark 50 Armor,156.70239653269113,Costumes,98,76,0
+Hawkeye's Targeting System,16.73528743928563,Weapons,74,69,2
+Captain America's Tactical Gloves,23.52439741645049,Costumes,72,85,0
+Thor's Battle Axe,106.18087439278602,Weapons,82,99,2
+Thor's Mjolnir Hammer,28.20717222993067,Weapons,90,87,2
+Winter Soldier's Arm,62.21190844251632,Weapons,72,87,2
+Iron Man's Mark 50 Armor,144.7833699449104,Costumes,97,81,0
+Iron Man's Repulsor Blasters,33.55613650130185,Weapons,94,89,2
+Shuri's Vibranium Tech,46.37877103951152,Powers,81,100,1
+Doctor Strange's Eye of Agamotto,48.37321653459492,Weapons,82,86,2
+Captain America's Tactical Gloves,18.757970692068625,Costumes,74,81,0
+Black Widow's Tactical Vest,54.6118131092365,Costumes,85,97,0
+Black Panther's Vibranium Suit,124.22801954238001,Costumes,93,88,0
+The Hulk's Gamma Gloves,31.677502507435804,Weapons,82,88,2
+Winter Soldier's Arm,68.10612417956483,Weapons,67,93,2
+Hulk's Smash Fist,31.918265260235213,Weapons,78,99,2
+Green Goblin's Glider,48.599438542525505,Weapons,81,66,2
+Thor's Stormbreaker Axe,100.0401422938647,Weapons,83,97,2
+Hulk's Smash Fist,20.48825346835535,Weapons,75,95,2
+Black Panther's Vibranium Suit,126.78352575223211,Costumes,95,95,0
+Scarlet Witch's Magic Powers,82.74199175451743,Powers,84,95,1
+Ant-Man's Suit,80.17682309531214,Costumes,82,89,0
+Thor's Battle Axe,90.10502396611236,Weapons,81,85,2
+Black Widow's Combat Boots,24.313094889367086,Costumes,77,87,0
+Captain America's Tactical Gloves,26.545430117734483,Costumes,71,89,0
+Wolverine's Claws,14.013023891724398,Weapons,65,82,2
+Hawkeye's Quiver,27.779034643456207,Weapons,74,89,2
+Black Widow's Gauntlets,38.2071579058003,Weapons,87,84,2
+Iron Man's Mark 50 Armor,140.3287070441179,Costumes,98,93,0
+Wolverine's Claws,22.360886555847053,Weapons,69,88,2
+Iron Man Armor,102.286191655519,Costumes,93,88,0
+Hawkeye's Quiver,18.74627823596765,Weapons,75,77,2
+Doctor Strange's Eye of Agamotto,59.493089819044435,Weapons,81,96,2
+Iron Man's Mark 50 Armor,150.14655393159575,Costumes,98,92,0
+Captain America's Shield,47.79907465120128,Weapons,92,76,2
+Ant-Man's Shrinking Powers,37.73762643054715,Powers,80,73,1
+Captain America's Shield,47.13187753029466,Weapons,86,86,2
+Wolverine's Claws,22.64882042901283,Weapons,75,78,2
+Iron Man's Unibeam,79.70373969624623,Weapons,100,74,2
+Thor's Mjolnir Hammer,27.035980922283787,Weapons,85,100,2
+Vision's Mind Stone,62.59767313527206,Weapons,100,99,2
+Black Widow's Widow's Bite,25.624716955166754,Weapons,77,77,2
+Shuri's Vibranium Tech,31.729675803995516,Powers,78,86,1
+Loki's Scepter,57.7058077123621,Weapons,85,79,2
+Vision's Solar Gem,32.96448111372034,Weapons,93,85,2
+Black Widow's Combat Boots,20.732415430738165,Costumes,85,76,0
+The Hulk's Gamma Gloves,37.139483520707266,Weapons,80,100,2
+Black Panther's Mask,27.46433212227747,Costumes,85,93,0
+Thor's Stormbreaker Axe,104.86615411039243,Weapons,86,95,2
+Vision's Mind Stone,55.914064530740454,Weapons,100,96,2
+Doctor Strange's Eye of Agamotto,45.33441391604365,Weapons,81,93,2
+Hulk's Smash Fist,21.60214304006894,Weapons,77,100,2
+The Hulk's Gamma Gloves,36.42422856429188,Weapons,81,90,2
+Hawkeye's Targeting System,15.912798986806846,Weapons,72,84,2
+The Falcon's Wings,68.33289544131827,Weapons,82,91,2
+Winter Soldier's Arm,50.84710325700259,Weapons,70,99,2
+The Falcon's Wings,70.49110720149716,Weapons,75,82,2
+Hawkeye's Targeting System,22.750250757665967,Weapons,70,81,2
+Doctor Strange's Cloak of Levitation,64.05578792559216,Costumes,67,99,0
+Winter Soldier's Arm,50.69597931597084,Weapons,66,87,2
+Black Widow's Tactical Vest,52.32656946214297,Costumes,86,98,0
+Thor's Mjolnir Hammer,32.09189657709571,Weapons,90,94,2
+Iron Man's Repulsor Blasters,27.430267569413672,Weapons,86,93,2
+Ant-Man's Suit,75.58919763072579,Costumes,81,85,0
+Black Widow's Tactical Vest,50.57379532599623,Costumes,81,80,0
+Vision's Mind Stone,55.970879205129336,Weapons,100,100,2
+Hawkeye's Bow and Arrows,40.235533531749915,Weapons,74,84,2
+Thor's Helmet,49.92730224309521,Costumes,74,85,0
+Loki's Scepter,42.44274843807942,Weapons,81,84,2
+Vision's Mind Stone,63.96358061572461,Weapons,100,87,2
+Spider-Man's Suit,53.356795809779356,Costumes,91,82,0
+Iron Man's Mark 50 Armor,145.80724565555627,Costumes,94,80,0
+Ant-Man's Shrinking Powers,33.481820194974,Powers,80,81,1
+Iron Spider Suit,102.42724910156913,Costumes,93,84,0
+Wolverine's Claws,23.797461216154982,Weapons,65,86,2
+Captain Marvel's Photon Blasts,67.43554814233052,Powers,92,92,1
+Ant-Man's Suit,77.23896725241042,Costumes,76,77,0
+Iron Man's Arc Reactor,52.96319961541817,Weapons,100,86,2
+Hawkeye's Quiver,30.38329100749396,Weapons,74,77,2
+Ant-Man's Suit,84.44759463027532,Costumes,85,77,0
+Winter Soldier's Arm,59.31666399242118,Weapons,73,91,2
+Ant-Man's Suit,82.55920303300823,Costumes,83,95,0
+Iron Man's Unibeam,68.63926273104275,Weapons,97,83,2
+Vision's Solar Gem,43.21424541893775,Weapons,85,73,2
+Doctor Strange's Eye of Agamotto,43.060309336204014,Weapons,82,85,2
+Spider-Man's Suit,58.69475673278155,Costumes,93,76,0
+Doctor Strange's Eye of Agamotto,57.898518336422484,Weapons,81,88,2
+Loki's Scepter,52.69114182775492,Weapons,88,78,2
+Ant-Man's Suit,77.50044722897181,Costumes,84,92,0
+Hulk's Smash Fist,23.04146289482525,Weapons,77,100,2
+Iron Man's Unibeam,68.08388533759127,Weapons,100,89,2
+Captain America's Tactical Gloves,22.74239173211604,Costumes,79,81,0
+Captain America's Shield,41.6144570978674,Weapons,95,93,2
+Black Widow's Combat Boots,33.022599549712,Costumes,84,83,0
+Thor's Battle Axe,102.77982384417741,Weapons,87,100,2
+Iron Man's Mark 50 Armor,145.79343313603212,Costumes,94,90,0
+Wolverine's Claws,24.083763084314658,Weapons,75,87,2
+Iron Man's Arc Reactor,54.070882659103425,Weapons,95,75,2
+Winter Soldier's Arm,58.3124349242823,Weapons,72,86,2
+Black Panther's Mask,34.13320525641272,Costumes,85,90,0
+Green Goblin's Glider,49.497482558297605,Weapons,77,76,2
+Vision's Solar Gem,36.23302431496738,Weapons,90,77,2
+Shuri's Vibranium Tech,33.4404381816792,Powers,82,92,1
+Scarlet Witch's Magic Powers,81.92623305121143,Powers,84,92,1
+Thor's Battle Axe,98.36269486669752,Weapons,82,95,2
+Thor's Lightning Powers,54.42256857644244,Powers,93,95,1
+Hulkbuster Armor,209.91938822190832,Costumes,100,100,0
+Iron Man's Arc Reactor,54.94740546095018,Weapons,96,82,2
+Vision's Solar Gem,34.14461284379462,Weapons,88,76,2
+Iron Man's Unibeam,72.05790177712711,Weapons,95,79,2
+Hulkbuster Armor,201.95037542020373,Costumes,100,100,0
+The Hulk's Gamma Gloves,40.73381498577854,Weapons,81,93,2
+Ant-Man's Suit,82.64911461837185,Costumes,80,87,0
+Iron Man's Repulsor Blasters,20.894847890225293,Weapons,85,93,2
+Captain Marvel's Photon Blasts,59.883106037754374,Powers,93,84,1
+Black Widow's Gauntlets,43.716976499595575,Weapons,87,82,2
+Captain Marvel's Suit,81.50622635917227,Costumes,94,94,0
+Hawkeye's Bow and Arrows,37.573267813784305,Weapons,71,82,2
+Iron Man's Repulsor Blasters,35.887944567618916,Weapons,90,92,2
+Iron Man's Repulsor Blasters,35.089303445855876,Weapons,88,94,2
+Vision's Solar Gem,33.02774168552129,Weapons,85,71,2
+Thor's Mjolnir Hammer,22.730727471350406,Weapons,85,95,2
+Doctor Strange's Eye of Agamotto,49.13977118565748,Weapons,89,96,2
+Ant-Man's Suit,71.55931695273053,Costumes,84,85,0
+Doctor Strange's Cloak of Levitation,52.859091757329665,Costumes,74,89,0
+Iron Man's Unibeam,71.72746904303357,Weapons,100,87,2
+Hulkbuster Armor,204.17479612870875,Costumes,99,100,0
+Captain America's Shield,47.35715619731539,Weapons,95,78,2
+Hawkeye's Quiver,26.674042836975726,Weapons,75,75,2
+Captain America's Tactical Gloves,25.48180428170121,Costumes,80,98,0
+Thor's Lightning Powers,44.550864505976456,Powers,90,100,1
+Black Widow's Widow's Bite,16.400241234933183,Weapons,85,94,2
+Captain America's Vibranium Shield,57.95551416600664,Weapons,100,92,2
+Thor's Mjolnir Hammer,31.44140542808252,Weapons,81,86,2
+Captain America's Shield,48.81077132369466,Weapons,91,79,2
+Hawkeye's Quiver,28.81000521837051,Weapons,71,91,2
+Thor's Battle Axe,108.41041899794422,Weapons,80,89,2
+Doctor Strange's Eye of Agamotto,44.14683409942489,Weapons,85,95,2
+Doctor Strange's Eye of Agamotto,47.53649552371392,Weapons,82,94,2
+Iron Man's Mark 50 Armor,146.84654035363693,Costumes,95,95,0
+Black Widow's Combat Boots,32.20153160157503,Costumes,78,77,0
+Captain Marvel's Suit,76.16173301614808,Costumes,88,84,0
+The Hulk's Gamma Gloves,44.098018736731674,Weapons,87,90,2
+Black Widow's Widow's Bite,19.96606348402613,Weapons,79,84,2
+Hawkeye's Bow and Arrows,46.4695360774729,Weapons,78,82,2
+Thor's Stormbreaker Axe,106.36754920261124,Weapons,82,94,2
+Thor's Mjolnir Hammer,25.742606832282796,Weapons,81,91,2
+Winter Soldier's Arm,63.119441011018154,Weapons,72,86,2
+Loki's Scepter,56.54903407016067,Weapons,84,87,2
+Captain Marvel's Suit,67.74545909601846,Costumes,94,93,0
+Wolverine's Claws,12.839160768205733,Weapons,75,91,2
+Iron Spider Suit,112.75889146817275,Costumes,90,83,0
+Hawkeye's Quiver,21.605872469746778,Weapons,72,78,2
+Ant-Man's Suit,65.1036289281426,Costumes,83,80,0
+Hawkeye's Quiver,28.057855954025996,Weapons,72,90,2
+Black Widow's Tactical Vest,48.989119493352035,Costumes,84,90,0
+The Hulk's Gamma Gloves,42.9179583578054,Weapons,81,100,2
+Thor's Lightning Powers,44.644403984420336,Powers,90,95,1
+Hawkeye's Quiver,32.64489946329667,Weapons,67,76,2
+Thor's Stormbreaker Axe,105.75921259751675,Weapons,82,94,2
+Thor's Mjolnir Hammer,20.175343369601993,Weapons,89,99,2
+Black Panther's Vibranium Suit,128.56909692034034,Costumes,90,94,0
+Shuri's Vibranium Tech,50.77198940177447,Powers,83,100,1
+Hulkbuster Armor,207.78519927539833,Costumes,97,100,0
+Shuri's Vibranium Tech,36.44674162995985,Powers,76,95,1
+Doctor Strange's Cloak of Levitation,59.622384676175486,Costumes,75,88,0
+Vision's Mind Stone,46.2716839123693,Weapons,100,94,2
+Thor's Lightning Powers,53.488022797894885,Powers,93,95,1
+Thor's Battle Axe,107.12293008546915,Weapons,86,98,2
+Vision's Solar Gem,31.55853317480352,Weapons,91,73,2
+Vision's Mind Stone,65.62370384881078,Weapons,100,95,2
+Wolverine's Claws,8.126602410791108,Weapons,71,82,2
+Winter Soldier's Arm,65.07513303562914,Weapons,70,89,2
+Iron Man's Unibeam,79.45765056801994,Weapons,95,78,2
+Black Widow's Tactical Vest,52.191041811223116,Costumes,83,81,0
+Hawkeye's Targeting System,12.364496956079451,Weapons,69,70,2
+Thor's Stormbreaker Axe,103.72147239782221,Weapons,84,88,2
+Ant-Man's Shrinking Powers,48.32260771701271,Powers,79,76,1
+Thor's Battle Axe,94.41698479937443,Weapons,82,100,2
+Scarlet Witch's Magic Powers,89.0895734554134,Powers,89,91,1
+Hawkeye's Quiver,29.038814537113083,Weapons,72,92,2
+Hawkeye's Targeting System,26.51207018172914,Weapons,68,84,2
+Hulk's Smash Fist,23.50013312440335,Weapons,83,96,2
+Black Widow's Gauntlets,54.33489413561951,Weapons,81,66,2
+Captain Marvel's Photon Blasts,74.04776320479617,Powers,88,93,1
+Iron Man's Mark 50 Armor,142.99704762764827,Costumes,95,91,0
+Winter Soldier's Arm,52.324800443693285,Weapons,68,98,2
+Hulkbuster Armor,191.81883288903376,Costumes,100,100,0
+Spider-Man Web Shooter,19.058646003595637,Powers,100,63,1
+Shuri's Vibranium Tech,42.26822370197427,Powers,83,99,1
+Iron Man's Arc Reactor,59.46560159650005,Weapons,100,78,2
+Iron Man Armor,104.90608965663631,Costumes,99,72,0
+Thor's Mjolnir Hammer,28.4639476955725,Weapons,81,97,2
+Spider-Man Web Shooter,28.681655977698927,Powers,96,65,1
+Thor's Mjolnir Hammer,25.7318141378264,Weapons,82,84,2
+Black Widow's Tactical Vest,64.56666569848201,Costumes,90,93,0
+Iron Man's Repulsor Blasters,39.84713197161758,Weapons,91,89,2
+Captain America's Vibranium Shield,62.51291067603975,Weapons,100,100,2
+Ant-Man's Suit,78.07068196837405,Costumes,80,78,0
+Vision's Mind Stone,65.84693552155174,Weapons,100,100,2
+Ant-Man's Suit,79.55716281812256,Costumes,78,75,0
+Captain America's Shield,59.55981365358278,Weapons,92,92,2
+The Falcon's Wings,75.63867216993518,Weapons,78,87,2
+Shuri's Vibranium Tech,37.91319469975254,Powers,79,91,1
+Hawkeye's Bow and Arrows,35.64434629819962,Weapons,80,83,2
+Thor's Battle Axe,105.32106935027807,Weapons,80,92,2
+Thor's Helmet,31.345818057789906,Costumes,79,71,0
+Winter Soldier's Arm,61.955697934631054,Weapons,65,87,2
+Thor's Mjolnir Hammer,28.035307016218127,Weapons,83,97,2
+Thor's Helmet,45.08771417494569,Costumes,70,74,0
+Vision's Solar Gem,44.869668824860966,Weapons,88,88,2
+Spider-Man's Suit,51.54949629275764,Costumes,100,75,0
+Wolverine's Claws,14.025288702884064,Weapons,67,91,2
+Iron Spider Suit,108.27120412893608,Costumes,94,81,0
+Captain Marvel's Photon Blasts,74.96040510053442,Powers,87,95,1
+The Falcon's Wings,76.11701331967426,Weapons,75,91,2
+Black Widow's Tactical Vest,58.42685049491445,Costumes,88,90,0
+Hawkeye's Quiver,23.16518353659177,Weapons,69,87,2
+Vision's Mind Stone,61.07832194476251,Weapons,100,92,2
+Iron Spider Suit,106.01472837590296,Costumes,92,94,0
+Spider-Man Web Shooter,21.23771899173818,Powers,100,67,1
+Doctor Strange's Eye of Agamotto,42.68185502118156,Weapons,83,88,2
+Thor's Helmet,36.6052598724821,Costumes,71,84,0
+Iron Man's Repulsor Blasters,21.839279930537273,Weapons,88,76,2
+Captain Marvel's Suit,72.5433594992268,Costumes,94,94,0
+Thor's Mjolnir Hammer,37.46240916979079,Weapons,83,98,2
+Hawkeye's Targeting System,21.177009525450543,Weapons,72,71,2
+Black Panther's Mask,28.063760512623155,Costumes,80,86,0
+Loki's Scepter,59.23155112228918,Weapons,81,85,2
+Wolverine's Claws,21.90252571409963,Weapons,68,87,2
+Wolverine's Claws,19.03158585095629,Weapons,69,87,2
+Shuri's Vibranium Tech,41.66300254832527,Powers,80,94,1
+Black Widow's Combat Boots,27.192892359616835,Costumes,82,84,0
+Black Panther's Vibranium Suit,126.05633243640042,Costumes,92,95,0
+Thor's Helmet,37.41409842862517,Costumes,76,71,0
+Thor's Lightning Powers,57.281696829389645,Powers,92,90,1
+Black Widow's Combat Boots,31.06623127084348,Costumes,84,88,0
+Hawkeye's Quiver,20.903845750154765,Weapons,68,85,2
+Iron Spider Suit,107.59679549482308,Costumes,93,95,0
+Captain Marvel's Photon Blasts,69.08215932242044,Powers,95,85,1
+Black Widow's Combat Boots,35.2672125133264,Costumes,82,90,0
+Hulkbuster Armor,199.2165799689641,Costumes,100,95,0
+Ant-Man's Suit,79.40627061524188,Costumes,82,80,0
+Iron Man's Mark 50 Armor,159.80647081759713,Costumes,90,91,0
+Thor's Mjolnir Hammer,36.7713698718991,Weapons,81,81,2
+Iron Man Armor,98.23784444831185,Costumes,100,77,0
+Black Widow's Gauntlets,50.1333912740692,Weapons,80,71,2
+Vision's Solar Gem,34.12019317942868,Weapons,85,89,2
+Ant-Man's Shrinking Powers,43.33509459106679,Powers,84,80,1
+Hawkeye's Targeting System,19.757087680061424,Weapons,65,82,2
+Captain Marvel's Photon Blasts,64.21677016434832,Powers,85,91,1
+Captain Marvel's Suit,75.7147620584785,Costumes,89,75,0
+Vision's Solar Gem,41.2631444182782,Weapons,95,83,2
+Vision's Mind Stone,48.13032857388986,Weapons,96,100,2
+Scarlet Witch's Magic Powers,84.80937664627015,Powers,89,96,1
+Black Widow's Combat Boots,36.30428781426565,Costumes,79,82,0
+Hulk's Smash Fist,20.45103166927364,Weapons,81,99,2
+Thor's Lightning Powers,44.864157883857644,Powers,93,99,1
+Hulk's Smash Fist,26.06471439118306,Weapons,85,86,2
+Hulk's Smash Fist,21.095565962085722,Weapons,81,100,2
+Black Widow's Widow's Bite,14.112298782579312,Weapons,75,80,2
+Hulk's Smash Fist,22.987167862255838,Weapons,81,100,2
+Black Panther's Mask,33.3171325590207,Costumes,81,96,0
+Thor's Mjolnir Hammer,24.585329942020334,Weapons,89,95,2
+Captain Marvel's Suit,65.93123941483486,Costumes,86,83,0
+Iron Man's Mark 50 Armor,151.27019728095968,Costumes,90,80,0
+Spider-Man's Suit,40.31316190383869,Costumes,93,83,0
+Scarlet Witch's Magic Powers,95.0350893969373,Powers,86,82,1
+Iron Man's Arc Reactor,48.24900501429412,Weapons,98,88,2
+Captain America's Vibranium Shield,68.54069931753364,Weapons,100,95,2
+Captain America's Vibranium Shield,70.11218529041784,Weapons,97,87,2
+Vision's Solar Gem,39.909131225097674,Weapons,90,71,2
+Black Panther's Vibranium Suit,118.74176505686998,Costumes,86,95,0
+Captain America's Tactical Gloves,31.370113067308846,Costumes,79,92,0
+Spider-Man's Suit,40.5925131789033,Costumes,94,79,0
+Hulkbuster Armor,194.56276779708432,Costumes,100,100,0
+The Falcon's Wings,68.71475691790802,Weapons,84,92,2
+Hulk's Smash Fist,28.433348082693797,Weapons,79,92,2
+Black Widow's Gauntlets,37.630760193462976,Weapons,82,77,2
+Ant-Man's Shrinking Powers,33.0855378120624,Powers,81,75,1
+Iron Man's Repulsor Blasters,22.12101835422522,Weapons,85,84,2
+Winter Soldier's Arm,57.19834994693793,Weapons,69,83,2
+Ant-Man's Suit,66.74594464710232,Costumes,81,89,0
+Captain Marvel's Photon Blasts,67.08480001217735,Powers,91,78,1
+Captain America's Shield,41.78237683920775,Weapons,93,77,2
+Captain America's Tactical Gloves,27.950875955885458,Costumes,75,92,0
+Iron Man Armor,95.82694702592642,Costumes,96,72,0
+Captain Marvel's Photon Blasts,74.09415148626718,Powers,88,93,1
+Doctor Strange's Eye of Agamotto,43.39165846784651,Weapons,86,85,2
+Ant-Man's Suit,70.37837927060295,Costumes,79,90,0
+Scarlet Witch's Magic Powers,81.25534300553909,Powers,86,88,1
+Hawkeye's Quiver,20.995045078431264,Weapons,66,86,2
+Black Widow's Combat Boots,38.88444591262788,Costumes,85,85,0
+Captain America's Tactical Gloves,28.323375840715798,Costumes,77,83,0
+Ant-Man's Suit,71.09315991502514,Costumes,81,85,0
+Thor's Battle Axe,97.59779912294097,Weapons,85,99,2
+Black Panther's Mask,30.612324418943444,Costumes,90,99,0
+Ant-Man's Suit,71.00870569358247,Costumes,84,81,0
+Black Widow's Widow's Bite,19.273665623908826,Weapons,81,85,2
+The Hulk's Gamma Gloves,44.697487308823725,Weapons,90,95,2
+Thor's Lightning Powers,55.63948739207153,Powers,95,100,1
+Captain Marvel's Suit,81.32989030865826,Costumes,91,86,0
+Hawkeye's Bow and Arrows,53.641343051768914,Weapons,73,88,2
+Iron Man's Mark 50 Armor,143.598544252174,Costumes,98,75,0
+Shuri's Vibranium Tech,49.84949830835567,Powers,78,99,1
+The Hulk's Gamma Gloves,46.62563617420722,Weapons,81,93,2
+Hulkbuster Armor,192.7835824539268,Costumes,99,97,0
+Black Widow's Combat Boots,33.17325937064636,Costumes,81,82,0
+Black Widow's Gauntlets,44.971334416672676,Weapons,89,80,2
+Iron Man's Unibeam,73.01610194658747,Weapons,100,83,2
+Iron Man's Mark 50 Armor,140.73530328135504,Costumes,95,92,0
+Captain America's Tactical Gloves,28.75360734021682,Costumes,71,83,0
+Wolverine's Claws,21.14203289161531,Weapons,70,80,2
+Black Widow's Tactical Vest,57.253558046265944,Costumes,89,100,0
+Black Widow's Tactical Vest,52.99235492450165,Costumes,85,93,0
+Black Panther's Vibranium Suit,110.2109554556916,Costumes,89,92,0
+Vision's Solar Gem,39.93706055265632,Weapons,93,88,2
+Thor's Lightning Powers,44.42063472357073,Powers,95,100,1
+Shuri's Vibranium Tech,46.43684464924864,Powers,84,100,1
+Scarlet Witch's Magic Powers,86.88934775199036,Powers,80,95,1
+Black Panther's Vibranium Suit,115.90864441036811,Costumes,86,88,0
+Scarlet Witch's Magic Powers,86.9565730464295,Powers,85,94,1
+Thor's Helmet,40.42229659600943,Costumes,75,85,0
+Black Panther's Vibranium Suit,118.76331876546054,Costumes,92,95,0
+Black Widow's Gauntlets,41.995281663638806,Weapons,81,65,2
+Black Panther's Mask,34.95939834555428,Costumes,90,85,0
+Wolverine's Claws,18.309878037937466,Weapons,73,80,2
+Black Panther's Mask,33.196979049797264,Costumes,87,87,0
+Thor's Stormbreaker Axe,102.59520637757358,Weapons,82,100,2
+Hawkeye's Targeting System,18.642689048585652,Weapons,65,84,2
+Loki's Scepter,48.9815002274816,Weapons,86,82,2
+Iron Man Armor,104.08471231919468,Costumes,93,78,0
+Black Widow's Gauntlets,47.536958104037055,Weapons,88,70,2
+Iron Man's Repulsor Blasters,26.50969823197637,Weapons,92,78,2
+Black Widow's Combat Boots,33.414028564488376,Costumes,82,86,0
+Ant-Man's Shrinking Powers,36.268082201029486,Powers,81,84,1
+Thor's Stormbreaker Axe,101.74009429130436,Weapons,85,96,2
+Shuri's Vibranium Tech,43.3372535867285,Powers,85,94,1
+Thor's Battle Axe,101.80336729954958,Weapons,90,89,2
+Spider-Man's Suit,42.35723305323313,Costumes,94,68,0
+Vision's Mind Stone,53.45612141928621,Weapons,97,100,2
+Captain America's Vibranium Shield,63.36478212422517,Weapons,97,100,2
+Captain America's Vibranium Shield,63.460775641464245,Weapons,100,100,2
+Iron Man's Mark 50 Armor,153.8686585305871,Costumes,100,80,0
+Captain Marvel's Photon Blasts,59.32731047654778,Powers,89,79,1
+Vision's Mind Stone,52.28160029321689,Weapons,100,100,2
+Spider-Man Web Shooter,27.300444617128246,Powers,95,65,1
+Ant-Man's Suit,68.90256983268499,Costumes,81,92,0
+Vision's Solar Gem,38.061395212258375,Weapons,91,85,2
+Hawkeye's Quiver,29.202847456915944,Weapons,72,90,2
+Doctor Strange's Cloak of Levitation,46.653412515729336,Costumes,65,87,0
+The Hulk's Gamma Gloves,30.653901737161416,Weapons,83,97,2
+The Hulk's Gamma Gloves,33.36417954873147,Weapons,87,98,2
+Hulkbuster Armor,200.994523690761,Costumes,96,100,0
+Hawkeye's Bow and Arrows,40.35777818785802,Weapons,78,81,2
+Iron Man's Mark 50 Armor,156.45221855592524,Costumes,90,89,0
+Iron Man's Mark 50 Armor,144.37083870020146,Costumes,96,78,0
+Black Widow's Tactical Vest,60.02690989487344,Costumes,84,81,0
+Winter Soldier's Arm,55.256304494824555,Weapons,66,94,2
+Hawkeye's Bow and Arrows,50.51263299761547,Weapons,73,76,2
+Iron Man's Unibeam,78.78267174223525,Weapons,100,90,2
+The Falcon's Wings,68.31963235380519,Weapons,77,86,2
+Thor's Helmet,46.10880986740557,Costumes,79,81,0
+Iron Man's Mark 50 Armor,145.62170037580395,Costumes,98,80,0
+Spider-Man's Suit,59.58000312805977,Costumes,94,74,0
+Thor's Lightning Powers,45.346861325561605,Powers,98,93,1
+Ant-Man's Suit,84.25543989987584,Costumes,81,76,0
+Captain Marvel's Suit,82.34095180867557,Costumes,87,79,0
+Wolverine's Claws,10.914868868499225,Weapons,70,82,2
+Thor's Stormbreaker Axe,99.78917451831276,Weapons,89,100,2
+Captain Marvel's Suit,77.55625641557948,Costumes,91,89,0
+Black Widow's Gauntlets,48.662555267005956,Weapons,81,77,2
+Vision's Solar Gem,39.9960476574638,Weapons,90,84,2
+Hulkbuster Armor,196.5457856032186,Costumes,95,92,0
+Shuri's Vibranium Tech,43.68681091072318,Powers,80,87,1
+Iron Man's Mark 50 Armor,147.95431736377327,Costumes,96,81,0
+Hulkbuster Armor,195.37073676628845,Costumes,99,100,0
+Captain Marvel's Photon Blasts,67.54867280521903,Powers,94,90,1
+Black Panther's Mask,39.88309316077112,Costumes,80,81,0
+Black Panther's Vibranium Suit,122.52359044311788,Costumes,92,85,0
+Hawkeye's Bow and Arrows,53.58865750695044,Weapons,72,84,2
+Shuri's Vibranium Tech,31.003518630242084,Powers,81,91,1
+Ant-Man's Suit,82.64295528083997,Costumes,79,80,0
+Captain Marvel's Suit,66.866799690513,Costumes,90,83,0
+Hulk's Smash Fist,20.426875352935312,Weapons,85,90,2
+Spider-Man Web Shooter,17.916831338644663,Powers,99,57,1
+The Falcon's Wings,78.1097045676707,Weapons,76,80,2
+Thor's Helmet,39.536134165218286,Costumes,72,88,0
+Iron Spider Suit,110.38888509273272,Costumes,97,80,0
+Iron Man Armor,103.90194214576097,Costumes,91,83,0
+Ant-Man's Suit,74.55400482875531,Costumes,78,87,0
+Hulk's Smash Fist,27.605267635279418,Weapons,76,88,2
+Spider-Man's Suit,47.35123379245236,Costumes,94,69,0
+Captain America's Vibranium Shield,70.46920967301249,Weapons,97,100,2
+Scarlet Witch's Magic Powers,81.35823215045157,Powers,89,80,1
+Thor's Battle Axe,103.00040426315614,Weapons,87,96,2
+Thor's Helmet,42.56160076681805,Costumes,72,83,0
+Thor's Battle Axe,103.7313233975148,Weapons,83,87,2
+Black Panther's Vibranium Suit,112.80026283151591,Costumes,86,100,0
+Captain America's Vibranium Shield,62.03071280766259,Weapons,100,95,2
+Ant-Man's Suit,69.95572749927157,Costumes,85,77,0
+Wolverine's Claws,19.0579326356946,Weapons,74,94,2
+The Hulk's Gamma Gloves,45.579393050265196,Weapons,80,89,2
+Thor's Helmet,40.35498255594475,Costumes,78,76,0
+Thor's Stormbreaker Axe,95.91084102484133,Weapons,80,92,2
+Hulkbuster Armor,197.71771149527189,Costumes,98,100,0
+Ant-Man's Shrinking Powers,41.87859536275447,Powers,83,65,1
+Iron Man's Repulsor Blasters,38.668488033484316,Weapons,87,87,2
+Thor's Lightning Powers,48.41727068504877,Powers,98,95,1
+Black Widow's Widow's Bite,32.07905967881773,Weapons,76,75,2
+Iron Man's Unibeam,66.35065138545534,Weapons,99,76,2
+Thor's Mjolnir Hammer,38.44158577866388,Weapons,86,96,2
+The Hulk's Gamma Gloves,42.57141392121152,Weapons,88,93,2
+The Falcon's Wings,79.03621277247032,Weapons,76,100,2
+Iron Man's Mark 50 Armor,150.75310716272102,Costumes,92,83,0
+Hulk's Smash Fist,19.18813771233284,Weapons,83,91,2
+Scarlet Witch's Magic Powers,90.71780345778916,Powers,86,98,1
+Ant-Man's Shrinking Powers,45.264482622523076,Powers,85,85,1
+Black Widow's Gauntlets,42.19338986794291,Weapons,86,72,2
+Spider-Man Web Shooter,14.879595074387307,Powers,100,53,1
+Shuri's Vibranium Tech,43.235935888414446,Powers,75,94,1
+Hawkeye's Targeting System,24.833870181151084,Weapons,67,68,2
+Iron Man Armor,104.14801214236196,Costumes,90,75,0
+Hulkbuster Armor,209.06032403509394,Costumes,100,100,0
+Black Widow's Combat Boots,23.339259083847615,Costumes,77,78,0
+Hawkeye's Bow and Arrows,50.428605809792494,Weapons,70,80,2
+The Falcon's Wings,70.43961190042708,Weapons,76,88,2
+Thor's Lightning Powers,52.55065665797443,Powers,97,100,1
+Vision's Solar Gem,32.202477910435064,Weapons,92,88,2
+Doctor Strange's Cloak of Levitation,52.35375555713623,Costumes,69,83,0
+Thor's Lightning Powers,53.48240863126194,Powers,91,97,1
+Vision's Solar Gem,25.051370120650216,Weapons,85,77,2
+Thor's Mjolnir Hammer,29.425291791554763,Weapons,86,84,2
+Vision's Mind Stone,64.61320154314372,Weapons,95,100,2
+Black Widow's Tactical Vest,53.38738608725597,Costumes,85,87,0
+Hawkeye's Quiver,33.3170952976179,Weapons,70,83,2
+Black Widow's Gauntlets,47.420719252349166,Weapons,81,81,2
+Spider-Man Web Shooter,13.576887005446112,Powers,100,51,1
+Thor's Stormbreaker Axe,91.37852875545491,Weapons,87,94,2
+Iron Man's Arc Reactor,51.54601843452238,Weapons,100,84,2
+Iron Man Armor,97.36838718305097,Costumes,94,88,0
+Iron Man's Arc Reactor,59.79151973466836,Weapons,98,84,2
+Iron Man's Repulsor Blasters,31.82381869969632,Weapons,92,81,2
+Iron Man's Mark 50 Armor,155.20964440643394,Costumes,93,79,0
+Iron Man Armor,108.63795065075696,Costumes,90,77,0
+Iron Man's Mark 50 Armor,146.92847395478813,Costumes,90,85,0
+Iron Man Armor,105.16858306427356,Costumes,96,79,0
+Black Panther's Vibranium Suit,114.10388745811798,Costumes,88,98,0
+Hulkbuster Armor,209.22370121775495,Costumes,97,98,0
+Hulk's Smash Fist,13.86800531406319,Weapons,78,100,2
+Hawkeye's Quiver,29.01693819397359,Weapons,70,89,2
+Hulk's Smash Fist,24.605412547525315,Weapons,83,89,2
+Ant-Man's Shrinking Powers,46.39925783788432,Powers,76,83,1
+Thor's Lightning Powers,41.245657270399164,Powers,100,94,1
+Wolverine's Claws,13.823520481138068,Weapons,70,87,2
+Spider-Man's Suit,46.36115438532201,Costumes,94,72,0
+Black Widow's Gauntlets,54.86109372060189,Weapons,82,83,2
+Black Panther's Vibranium Suit,113.10821102643874,Costumes,87,99,0
+Shuri's Vibranium Tech,37.27066575624236,Powers,76,100,1
+Green Goblin's Glider,49.28269444500458,Weapons,78,79,2
+Iron Man's Arc Reactor,54.26693190112828,Weapons,96,72,2
+Doctor Strange's Cloak of Levitation,61.15193809361083,Costumes,69,99,0
+Thor's Mjolnir Hammer,24.290415789473762,Weapons,85,84,2
+Hulk's Smash Fist,27.21314796570223,Weapons,80,97,2
+Vision's Solar Gem,25.979012351808457,Weapons,89,78,2
+Vision's Mind Stone,46.611641867175194,Weapons,100,99,2
+Captain Marvel's Photon Blasts,70.95156894417418,Powers,88,78,1
+Shuri's Vibranium Tech,33.028146973236915,Powers,77,88,1
+Iron Man Armor,91.22338368987624,Costumes,93,74,0
+Loki's Scepter,56.463468303767115,Weapons,85,90,2
+Black Widow's Tactical Vest,46.68078848456201,Costumes,89,88,0
+Black Widow's Gauntlets,36.42600365477226,Weapons,81,71,2
+Black Widow's Tactical Vest,53.868626476719776,Costumes,82,82,0
+Black Panther's Mask,24.450553185149477,Costumes,87,81,0
+Doctor Strange's Cloak of Levitation,63.48263451067868,Costumes,71,92,0
+Hulkbuster Armor,190.58964586000582,Costumes,100,100,0
+Vision's Mind Stone,53.0688650534624,Weapons,97,93,2
+Captain Marvel's Suit,73.92022861293313,Costumes,87,76,0
+Thor's Battle Axe,102.38353097691791,Weapons,83,100,2
+The Hulk's Gamma Gloves,39.97783219992998,Weapons,88,95,2
+Spider-Man Web Shooter,11.744431021180148,Powers,100,54,1
+Hawkeye's Quiver,18.989156133331733,Weapons,73,82,2
+Ant-Man's Shrinking Powers,49.88174554737927,Powers,83,65,1
+Captain America's Vibranium Shield,70.6383153369085,Weapons,100,100,2
+Iron Man's Mark 50 Armor,155.62870211670986,Costumes,95,93,0
+Vision's Solar Gem,31.432088373360227,Weapons,89,75,2
+Captain America's Shield,46.36755134658759,Weapons,88,75,2
+Captain Marvel's Suit,66.17182460556236,Costumes,92,91,0
+Green Goblin's Glider,45.32684336900546,Weapons,78,70,2
+Black Panther's Vibranium Suit,114.95714108003146,Costumes,88,93,0
+Iron Man's Mark 50 Armor,156.3257032321747,Costumes,90,82,0
+Thor's Lightning Powers,56.93010180930266,Powers,96,100,1
+Vision's Mind Stone,49.512007351599806,Weapons,100,95,2
+Green Goblin's Glider,48.26960008257069,Weapons,75,76,2
+Thor's Lightning Powers,51.272129735663874,Powers,99,96,1
+Hulkbuster Armor,200.84249203041986,Costumes,97,100,0
+Thor's Mjolnir Hammer,21.795147537018053,Weapons,83,99,2
+Iron Spider Suit,100.39855979777106,Costumes,97,80,0
+Black Panther's Mask,40.357923718412934,Costumes,83,84,0
+Black Panther's Mask,36.33875265381632,Costumes,85,81,0
+Captain America's Shield,42.944240379722295,Weapons,87,78,2
+Doctor Strange's Eye of Agamotto,57.21338933183101,Weapons,81,91,2
+Hawkeye's Targeting System,17.911911247077086,Weapons,66,75,2
+Iron Man's Arc Reactor,51.452064087458204,Weapons,97,83,2
+Ant-Man's Shrinking Powers,49.21324200737476,Powers,85,75,1
+Vision's Mind Stone,60.13365842472656,Weapons,100,100,2
+Green Goblin's Glider,34.454744279612854,Weapons,84,70,2
+Captain America's Vibranium Shield,61.13646458595916,Weapons,99,89,2
+Vision's Mind Stone,60.566619118719984,Weapons,100,97,2
+Thor's Lightning Powers,40.64765485854175,Powers,99,100,1
+Thor's Battle Axe,94.41790500874023,Weapons,89,88,2
+Hulkbuster Armor,192.81286736297136,Costumes,96,97,0
+Green Goblin's Glider,49.63759309880714,Weapons,77,85,2
+Hulk's Smash Fist,29.423236108566194,Weapons,85,100,2
+Black Panther's Mask,30.932598681955877,Costumes,84,86,0
+Wolverine's Claws,21.853521526425297,Weapons,70,83,2
+Black Panther's Vibranium Suit,124.40827175993937,Costumes,85,97,0
+Winter Soldier's Arm,64.65168988997537,Weapons,67,93,2
+Hulkbuster Armor,207.63541316668875,Costumes,100,100,0
+Captain America's Vibranium Shield,57.02857119274243,Weapons,100,100,2
+Black Widow's Tactical Vest,60.164870871180355,Costumes,83,85,0
+Winter Soldier's Arm,51.474187791227486,Weapons,65,89,2
+Captain America's Shield,46.364338159133155,Weapons,86,77,2
+Black Panther's Mask,25.402104063023813,Costumes,86,85,0
+Black Widow's Gauntlets,46.93092517224463,Weapons,81,75,2
+Captain America's Tactical Gloves,35.69552200282286,Costumes,77,80,0
+The Falcon's Wings,83.84884516203928,Weapons,77,99,2
+The Falcon's Wings,68.14207554661569,Weapons,76,90,2
+Thor's Helmet,49.48796841352943,Costumes,76,87,0
+Iron Man's Mark 50 Armor,145.30529538699952,Costumes,94,84,0
+Wolverine's Claws,9.90831842804483,Weapons,71,93,2
+Captain Marvel's Photon Blasts,72.78709009691302,Powers,87,76,1
+Iron Man's Repulsor Blasters,20.06631144338935,Weapons,86,84,2
+Hawkeye's Targeting System,22.501819074186017,Weapons,72,71,2
+Black Panther's Vibranium Suit,110.51471385463371,Costumes,87,100,0
+The Hulk's Gamma Gloves,49.541153919985305,Weapons,87,83,2
+Iron Man's Arc Reactor,60.6975314613383,Weapons,100,85,2
+Hawkeye's Targeting System,15.300087942352425,Weapons,75,82,2
+Captain America's Vibranium Shield,58.697624410840945,Weapons,100,96,2
+Vision's Mind Stone,54.905505415889166,Weapons,99,99,2
+Shuri's Vibranium Tech,36.25801619324718,Powers,79,100,1
+Spider-Man Web Shooter,13.01261348847078,Powers,100,53,1
+Hulk's Smash Fist,26.352823477952384,Weapons,83,98,2
+Iron Man's Unibeam,69.55025517249136,Weapons,95,82,2
+Doctor Strange's Eye of Agamotto,48.372641498689006,Weapons,88,95,2
+Thor's Lightning Powers,57.633077388352454,Powers,97,99,1
+Hulk's Smash Fist,20.8860873041715,Weapons,75,100,2
+Thor's Lightning Powers,58.009101229431835,Powers,99,100,1
+Scarlet Witch's Magic Powers,82.39563749510866,Powers,87,85,1
+Doctor Strange's Cloak of Levitation,64.44329756675513,Costumes,68,84,0
+Thor's Mjolnir Hammer,28.45749798631199,Weapons,90,93,2
+Loki's Scepter,59.935384535575515,Weapons,90,74,2
+Captain America's Tactical Gloves,21.14772719975553,Costumes,71,82,0
+Captain America's Vibranium Shield,66.12728407939598,Weapons,100,95,2
+Captain Marvel's Suit,75.39376355084138,Costumes,85,94,0
+Iron Man's Unibeam,75.45124020899618,Weapons,100,73,2
+Hawkeye's Quiver,17.99284639182683,Weapons,74,93,2
+Iron Man's Unibeam,80.16754775715346,Weapons,96,73,2
+Thor's Lightning Powers,55.590893939285046,Powers,94,100,1
+Green Goblin's Glider,47.5478712539211,Weapons,79,77,2
+Black Widow's Tactical Vest,54.71169584572661,Costumes,89,95,0
+Thor's Mjolnir Hammer,23.43399456313463,Weapons,86,84,2
+Thor's Battle Axe,102.17310528171254,Weapons,86,86,2
+Thor's Stormbreaker Axe,107.79148427828515,Weapons,85,92,2
+Spider-Man Web Shooter,24.90499639678272,Powers,99,61,1
+Captain America's Shield,46.74732162853866,Weapons,89,84,2
+Captain Marvel's Suit,81.85693137222815,Costumes,95,78,0
+Iron Spider Suit,102.68771041936881,Costumes,97,90,0
+Captain Marvel's Suit,79.5759882653911,Costumes,94,95,0
+Hulk's Smash Fist,16.748713817852227,Weapons,78,98,2
+Hulkbuster Armor,205.18986590452513,Costumes,100,91,0
+Vision's Solar Gem,40.829807841624685,Weapons,86,79,2
+Vision's Solar Gem,33.067702820248876,Weapons,93,88,2
+Captain America's Shield,43.464747120255744,Weapons,88,76,2
+Wolverine's Claws,8.651420890159704,Weapons,65,86,2
+Loki's Scepter,45.46954996948718,Weapons,87,86,2
+Thor's Stormbreaker Axe,102.70819618151688,Weapons,81,85,2
+Wolverine's Claws,15.439335230706142,Weapons,74,89,2
+Vision's Mind Stone,65.20040756560576,Weapons,100,100,2
+Captain Marvel's Photon Blasts,62.98519803289309,Powers,87,83,1
+Hulk's Smash Fist,18.691387528695238,Weapons,81,86,2
+Doctor Strange's Cloak of Levitation,62.07642653171093,Costumes,68,87,0
+Black Widow's Tactical Vest,49.5022408183955,Costumes,83,88,0
+Black Widow's Tactical Vest,53.190143929910846,Costumes,80,80,0
+Black Widow's Widow's Bite,31.220308761047434,Weapons,85,80,2
+Captain America's Tactical Gloves,32.007296166489084,Costumes,73,88,0
+Captain America's Tactical Gloves,32.091711383909725,Costumes,74,100,0
+Captain Marvel's Suit,73.47613601319239,Costumes,91,86,0
+Shuri's Vibranium Tech,36.02997418555752,Powers,82,94,1
+Doctor Strange's Eye of Agamotto,56.486216429413275,Weapons,86,98,2
