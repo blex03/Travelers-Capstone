@@ -97,7 +97,7 @@ export const Checkout = () => {
             <h1 style={totalStyle}>{`Total: $${total.toFixed(2)}`}</h1>
             <button onClick={recommendProduct}>Get Recommendations</button>
             <div>
-                <h2>Recommended Products</h2>
+                <h1>Recommended Products</h1>
                 <div style={containerStyle}>
                 {recommendations.map((product) => (<Product key={product._id} data={product}/>))}
             </div>

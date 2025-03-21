@@ -68,7 +68,7 @@ export const Login = () => {
                 </div>
                 <button type="submit">Login</button>
             </form>
-            {message && <p>{message}</p>}
+            {message && <p style={{color: 'white'}}>{message}</p>}
         </div>
     );
 };
