@@ -60,7 +60,10 @@ button:focus-visible {
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;
-    background-color: #000000;
+    background-color: #ffffff;
+    background-image: url('b8.jpg');
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-size: cover; /* Ensures the image covers the entire area */
   }
   a:hover {
     color: #747bff;
